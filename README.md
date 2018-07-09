@@ -28,6 +28,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 * [557 Reverse Words in a String III](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/557_reverse-words-in-a-string-iii.py)
 * [566 Reshape the Matrix](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/566_reshape-the-matrix.py)
 * [595 Big Countries](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/595_big-countries.sql)
+* [620 Not Boring Movies](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/620_not-boring-movies.sql)    
 * [771 Jewels and Stones](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/771_jewels-and-stones.py)
 * [804 Unique Morse Code Words](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/804_unique-morse-code-words.py)
 * [821 Shortest Distance to a Character](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/821_shortest-distance-to-a-character.py)
