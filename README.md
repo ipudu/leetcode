@@ -8,6 +8,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 * [009 Palindrome Number](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/009_palindrome-number.py)
 * [027 Remove Element](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/027_remove-element.py)
 * [035 Search Insert Position](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/035_search-insert-position.py)
+* [65 Valid Number](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/65_valid-number.py)
 * [136 Single Number](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/136_single-number.py)
 * [171 Excel Sheet Column Number](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/171_excel-sheet-column-number.py)
 * [187 Repeated DNA Sequences](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/187_repeated-dna-sequences.py)
