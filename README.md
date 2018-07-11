@@ -20,6 +20,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 * [326 Power of Three](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/326_power-of-three.py)
 * [344 Reverse String](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/344_reverse-string.py)
 * [412 Fizz Buzz](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/485_max-consecutive-ones.py)
+* [461 Hamming Distance](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/461_hamming-distance.py)
 * [485 Max Consecutive Ones](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/485_max-consecutive-ones.py)
 * [495 Teemo Attacking](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/495_teemo-attacking.py)
 * [500 Keyboard Row](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/500_keyboard-row.py)
