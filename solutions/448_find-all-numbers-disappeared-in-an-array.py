@@ -21,10 +21,9 @@ class Solution:
         :rtype: List[int]
         """
         result = []
-        n_list = [0 for i in range(len(nums))]
-        for num in nums:
-            n_list[num-1] += 1
-        for i in range(len(n_list)):
-            if n_list[i] == 0:
+        for i in range(len(nums)):
+            nums[abs(nums[i])-1] = - abs(nums[abs(nums[i])-1])
+        for i, j in enumerate(nums):
+            if j > 0:
                 result.append(i+1)
         return result
