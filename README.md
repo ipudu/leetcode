@@ -22,6 +22,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 * [326 Power of Three](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/326_power-of-three.py)
 * [344 Reverse String](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/344_reverse-string.py)
 * [412 Fizz Buzz](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/485_max-consecutive-ones.py)
+* [415 Add Strings](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/415_add-strings.py)
 * [442 Find All Duplicates in an Array](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/442_find-all-duplicates-in-an-array.py)
 * [448 Find All Numbers Disappeared in an Array](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/448_find-all-numbers-disappeared-in-an-array.py)
 * [461 Hamming Distance](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/461_hamming-distance.py)
