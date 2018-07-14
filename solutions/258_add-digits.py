@@ -17,9 +17,7 @@ class Solution:
         :type num: int
         :rtype: int
         """
-        s = 0
-        s = sum([int(i) for i in list(str(num))])
-        if s < 10:
-            return s
+        if num % 9 == 0 and num != 0:
+            return 9
         else:
-            return self.addDigits(s)
+            return num % 9
