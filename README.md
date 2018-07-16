@@ -48,6 +48,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 * [771 Jewels and Stones](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/771_jewels-and-stones.py)
 * [804 Unique Morse Code Words](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/804_unique-morse-code-words.py)
 * [821 Shortest Distance to a Character](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/821_shortest-distance-to-a-character.py)
+* [844 Backspace String Compare](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/844_backspace-string-compare.py)
 * [852 Peak Index in a Mountain Array](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/852_peak-index-in-a-mountain-array.py)
 * [859 Buddy Strings](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/859_buddy-strings.py)
 * [868 Transpose Matrix](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/868_transpose-matrix.py)
