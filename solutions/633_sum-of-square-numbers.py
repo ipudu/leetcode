@@ -16,13 +16,8 @@ class Solution:
         :type c: int
         :rtype: bool
         """
-        i = 1
-        while i ** 2 < c:
-            i += 1
-        n = i + 1
-        
-        for i in range(n):
-            for j in range(n):
-                if i ** 2 + j ** 2 == c:
-                    return True
+        for i in range(int(c ** 0.5) + 1):
+            j = c - i ** 2
+            if int(j ** 0.5) ** 2 == j:
+                return True
         return False
