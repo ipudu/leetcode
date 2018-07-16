@@ -13,6 +13,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 * [065 Valid Number](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/065_valid-number.py)
 * [066 Plus One](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/066_plus-one.py)
 * [067 Add Binary](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/067_add-binary.py)
+* [069 Sqrt(x)](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/069_sqrt.py)
 * [136 Single Number](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/136_single-number.py)
 * [171 Excel Sheet Column Number](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/171_excel-sheet-column-number.py)
 * [187 Repeated DNA Sequences](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/187_repeated-dna-sequences.py)
