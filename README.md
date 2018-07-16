@@ -36,6 +36,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 * [495 Teemo Attacking](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/495_teemo-attacking.py)
 * [500 Keyboard Row](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/500_keyboard-row.py)
 * [520 Detect Capital](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/520_detect-capital.py)
+* [537 Complex Number Multiplication](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/537_complex-number-multiplication.py)
 * [540 Single Element in a Sorted Array](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/540_single-element-in-a-sorted-array.py)
 * [557 Reverse Words in a String III](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/557_reverse-words-in-a-string-iii.py)
 * [561 Array Partition I](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/561_array-partition-i.py)
