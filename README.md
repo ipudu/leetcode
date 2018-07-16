@@ -11,6 +11,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 * [035 Search Insert Position](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/035_search-insert-position.py)
 * [043 Multiply Strings](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/043_multiply-strings.py)
 * [050 Pow(x, n)](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/050_pow.py)
+* [058 Length of Last Word](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/058_length-of-last-word.py)
 * [065 Valid Number](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/065_valid-number.py)
 * [066 Plus One](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/066_plus-one.py)
 * [067 Add Binary](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/067_add-binary.py)
