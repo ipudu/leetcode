@@ -23,6 +23,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 * [260 Single Number III](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/260_single-number-iii.py)
 * [326 Power of Three](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/326_power-of-three.py)
 * [344 Reverse String](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/344_reverse-string.py)
+* [367 Valid Perfect Square](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/367_valid-perfect-square.py)
 * [412 Fizz Buzz](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/485_max-consecutive-ones.py)
 * [415 Add Strings](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/415_add-strings.py)
 * [442 Find All Duplicates in an Array](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/442_find-all-duplicates-in-an-array.py)
