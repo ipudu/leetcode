@@ -23,6 +23,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 * [192 Word Frequency](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/192_word-frequency.sh)
 * [193 Valid Phone Numbers](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/193_valid-phone-numbers.py)
 * [195 Tenth Line](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/195_tenth-line.sh)
+* [231 Power of Two](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/231_power-of-two.py)
 * [258 Add Digits](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/258_add-digits.py)
 * [260 Single Number III](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/260_single-number-iii.py)
 * [326 Power of Three](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/326_power-of-three.py)
