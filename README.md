@@ -18,6 +18,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 * [136 Single Number](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/136_single-number.py)
 * [171 Excel Sheet Column Number](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/171_excel-sheet-column-number.py)
 * [187 Repeated DNA Sequences](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/187_repeated-dna-sequences.py)
+* [190 Reverse Bits](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/190_reverse-bits.py)
 * [192 Word Frequency](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/192_word-frequency.sh)
 * [193 Valid Phone Numbers](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/193_valid-phone-numbers.py)
 * [195 Tenth Line](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/195_tenth-line.sh)
