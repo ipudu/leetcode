@@ -44,6 +44,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 * [485 Max Consecutive Ones](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/485_max-consecutive-ones.py)
 * [495 Teemo Attacking](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/495_teemo-attacking.py)
 * [500 Keyboard Row](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/500_keyboard-row.py)
+* [507 Perfect Number](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/507_perfect-number.py)
 * [520 Detect Capital](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/520_detect-capital.py)
 * [537 Complex Number Multiplication](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/537_complex-number-multiplication.py)
 * [540 Single Element in a Sorted Array](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/540_single-element-in-a-sorted-array.py)
