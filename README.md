@@ -30,6 +30,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 * [258 Add Digits](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/258_add-digits.py)
 * [260 Single Number III](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/260_single-number-iii.py)
 * [268 Missing Number](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/268_missing-number.py)
+* [283 Move Zeroes](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/283_move-zeros.py)
 * [326 Power of Three](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/326_power-of-three.py)
 * [344 Reverse String](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/344_reverse-string.py)
 * [367 Valid Perfect Square](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/367_valid-perfect-square.py)
