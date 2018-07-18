@@ -39,6 +39,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 * [434 Number of Segments in a String](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/434_number-of-segments-in-a-string.py)
 * [442 Find All Duplicates in an Array](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/442_find-all-duplicates-in-an-array.py)
 * [448 Find All Numbers Disappeared in an Array](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/448_find-all-numbers-disappeared-in-an-array.py)
+* [476 Number Complement](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/476_number-complement.py)
 * [461 Hamming Distance](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/461_hamming-distance.py)
 * [477 Total Hamming Distance](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/477_total-hamming-distance.py)
 * [485 Max Consecutive Ones](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/485_max-consecutive-ones.py)
