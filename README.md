@@ -16,6 +16,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 * [066 Plus One](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/066_plus-one.py)
 * [067 Add Binary](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/067_add-binary.py)
 * [069 Sqrt(x)](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/069_sqrt.py)
+* [125 Valid Palindrome](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/125_valid-palindrome.py)
 * [136 Single Number](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/136_single-number.py)
 * [169 Majority Element](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/169_majority-element.py)
 * [171 Excel Sheet Column Number](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/171_excel-sheet-column-number.py)
