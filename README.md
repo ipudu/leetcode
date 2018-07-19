@@ -71,4 +71,5 @@ This repository provides python code solutions for leetcode [problems](https://l
 * [852 Peak Index in a Mountain Array](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/852_peak-index-in-a-mountain-array.py)
 * [859 Buddy Strings](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/859_buddy-strings.py)
 * [868 Transpose Matrix](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/868_transpose-matrix.py)
+* [869 Reordered Power of 2](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/869_reordered-power-of-2.py)
 * [](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/)
