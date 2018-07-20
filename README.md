@@ -18,6 +18,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 * [069 Sqrt(x)](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/069_sqrt.py)
 * [125 Valid Palindrome](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/125_valid-palindrome.py)
 * [136 Single Number](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/136_single-number.py)
+* [155 Min Stack](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/155_min_stack.py)
 * [169 Majority Element](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/169_majority-element.py)
 * [171 Excel Sheet Column Number](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/171_excel-sheet-column-number.py)
 * [175 Combine Two Tables](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/175_combine-two-tables.sql)
