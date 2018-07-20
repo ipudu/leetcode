@@ -66,6 +66,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 * [724 Find Pivot Index](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/724_find-pivot-index.py)
 * [728 Self Dividing Numbers](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/728_self-dividing-numbers.py)
 * [771 Jewels and Stones](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/771_jewels-and-stones.py)
+* [796 Rotate String](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/796_rotate-string.py)
 * [804 Unique Morse Code Words](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/804_unique-morse-code-words.py)
 * [821 Shortest Distance to a Character](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/821_shortest-distance-to-a-character.py)
 * [832 Flipping an Image](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/832_flipping-an-image.py)
