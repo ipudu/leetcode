@@ -59,6 +59,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 * [620 Not Boring Movies](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/620_not-boring-movies.sql)
 * [627 Swap Salary](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/627_swap-salary.sql)
 * [633 Sum of Square Numbers](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/633_sum-of-square-numbers.py)
+* [645 Set Mismatch](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/645_set-mismatch.py)
 * [657 Judge Route Circle](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/657_judge-route-circle.py)
 * [709 To Lower Case](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/709_to-lower-case.py)
 * [724 Find Pivot Index](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/724_find-pivot-index.py)
