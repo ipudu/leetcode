@@ -44,6 +44,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 * [367 Valid Perfect Square](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/367_valid-perfect-square.py)
 * [389 Find the Difference](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/389_find-the-difference.py)
 * [412 Fizz Buzz](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/485_max-consecutive-ones.py)
+* [414 Third Maximum Number](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/414_third-maximum-number.py)
 * [415 Add Strings](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/415_add-strings.py)
 * [434 Number of Segments in a String](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/434_number-of-segments-in-a-string.py)
 * [442 Find All Duplicates in an Array](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/442_find-all-duplicates-in-an-array.py)
