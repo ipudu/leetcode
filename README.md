@@ -38,6 +38,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 * [283 Move Zeroes](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/283_move-zeros.py)
 * [326 Power of Three](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/326_power-of-three.py)
 * [344 Reverse String](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/344_reverse-string.py)
+* [347 Top K Frequent Elements](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/347_top-k-frequent-elements.py)
 * [349 Intersection of Two Arrays](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/349_intersection-of-two-arrays.py)
 * [367 Valid Perfect Square](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/367_valid-perfect-square.py)
 * [389 Find the Difference](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/389_find-the-difference.py)
