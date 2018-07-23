@@ -23,6 +23,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 * [169 Majority Element](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/169_majority-element.py)
 * [171 Excel Sheet Column Number](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/171_excel-sheet-column-number.py)
 * [175 Combine Two Tables](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/175_combine-two-tables.sql)
+* [176 Second Highest Salary](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/176_second-highest-salary.sql)
 * [187 Repeated DNA Sequences](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/187_repeated-dna-sequences.py)
 * [190 Reverse Bits](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/190_reverse-bits.py)
 * [191 Number of 1 Bits](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/191_number-of-1-bits.py)
