@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>LeetCode solutions with Python</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      loadSidebar: true,
+      auto2top: true,
+      maxLevel: 4,
+      subMaxLevel: 3,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
+      themeColor: '#60b0f4',
+      repo: 'https://github.com/ipudu/leetcode',
+      homepage: 'https://raw.githubusercontent.com/ipudu/leetcode-solutions/master/README.md',
+      ga: 'UA-68610248-5',
+      search: {
+        paths: 'auto',
+        placeholder: 'Search',
+        noData: 'No Results.'
+      }
+    }
+  </script>
+  <script>
+    const gitalk = new Gitalk({
+    clientID: '9b082c0bcab698e52864',
+    clientSecret: 'ba41756dead87af99a895913e6dc9ccdc526223a',
+    repo: 'leetcode',
+    owner: 'ipudu',
+    admin: ['ipudu'],
+    distractionFreeMode: false
+    })
+  </script>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/ga.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+</body>
+</html>
