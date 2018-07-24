@@ -85,6 +85,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 * [844 Backspace String Compare](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/844_backspace-string-compare.py)
 * [852 Peak Index in a Mountain Array](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/852_peak-index-in-a-mountain-array.py)
 * [859 Buddy Strings](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/859_buddy-strings.py)
-* [868 Transpose Matrix](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/868_transpose-matrix.py)
+* [867 Transpose Matrix](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/867_transpose-matrix.py)
+* [868 Binary Gap](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/868_binary-gap.py)
 * [869 Reordered Power of 2](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/869_reordered-power-of-2.py)
 * [](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/)
