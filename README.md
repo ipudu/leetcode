@@ -31,6 +31,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 * [193 Valid Phone Numbers](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/193_valid-phone-numbers.py)
 * [195 Tenth Line](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/195_tenth-line.sh)
 * [215 Kth Largest Element in an Array](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/215_kth-largest-element-in-an-array.py)
+* [217 Contains Duplicate](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/217_contains-duplicate.py)
 * [219 Contains Duplicate II](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/219_contains-duplicate-ii.py)
 * [231 Power of Two](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/231_power-of-two.py)
 * [242 Valid Anagram](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/242_valid-anagram.py)
