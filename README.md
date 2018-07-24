@@ -55,6 +55,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 * [477 Total Hamming Distance](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/477_total-hamming-distance.py)
 * [482 License Key Formatting](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/482_license-key-formatting.py)
 * [485 Max Consecutive Ones](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/485_max-consecutive-ones.py)
+* [492 Construct the Rectangle](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/492_construct-the-rectangle.py)
 * [495 Teemo Attacking](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/495_teemo-attacking.py)
 * [500 Keyboard Row](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/500_keyboard-row.py)
 * [504 Base 7](https://github.com/ipudu/leetcode-solutions/blob/master/solutions/504_base-7.py)
