@@ -8,6 +8,10 @@
 
 This repository provides python code solutions for leetcode [problems](https://leetcode.com/problemset/all/).
 
+<p align="center">
+  <img alt="progress" src="https://leetcode.win/assets/images/progress.jpeg" width="80%" height="80%">
+</p>
+
 ## Table of Contents
 
 | # | Title | Source Code | Explanation |
