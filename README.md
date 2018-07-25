@@ -606,7 +606,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 592 | | | |
 | 593 | | | |
 | 594 | | | |
-| 595 | [Big Countries][595-leetcode] | [:octocat:][585-code] | |
+| 595 | [Big Countries][595-leetcode] | [:octocat:][595-code] | |
 | 596 | | | |
 | 597 | | | |
 | 598 | | | |
