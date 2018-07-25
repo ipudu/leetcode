@@ -15,12 +15,12 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 001 | [Two Sum][001-leetcode] | [:octocat:][001-code] | [:book:][001-doc] |
 | 002 | | | |
 | 003 | | | |
-| 004 | [Median of Two Sorted Arrays][004-leetcode] | | |
+| 004 | [Median of Two Sorted Arrays][004-leetcode] | [:octocat:][004-code] | |
 | 005 | | | |
 | 006 | | | |
-| 007 | [Reverse Integer][007-leetcode] | | |
+| 007 | [Reverse Integer][007-leetcode] | [:octocat:][007-code] | |
 | 008 | | | |
-| 009 | [Palindrome Number][009-leetcode] | | |
+| 009 | [Palindrome Number][009-leetcode] | [:octocat:][009-code] | |
 | 010 | | | |
 | 011 | | | |
 | 012 | | | |
@@ -37,8 +37,8 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 023 | | | |
 | 024 | | | |
 | 025 | | | |
-| 026 | [Remove Duplicates from Sorted Array][026-leetcode] | | |
-| 027 | [Remove Element][027-leetcode] | | |
+| 026 | [Remove Duplicates from Sorted Array][026-leetcode] | [:octocat:][026-code] | |
+| 027 | [Remove Element][027-leetcode] | [:octocat:][027-code] | |
 | 028 | | | |
 | 029 | | | |
 | 030 | | | |
@@ -46,7 +46,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 032 | | | |
 | 033 | | | |
 | 034 | | | |
-| 035 | [Search Insert Position][035-leetcode] | | |
+| 035 | [Search Insert Position][035-leetcode] | [:octocat:][035-code] | |
 | 036 | | | |
 | 037 | | | |
 | 038 | | | |
@@ -54,14 +54,14 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 040 | | | |
 | 041 | | | |
 | 042 | | | |
-| 043 | [Multiply Strings][043-leetcode] | | |
+| 043 | [Multiply Strings][043-leetcode] | [:octocat:][043-code] | |
 | 044 | | | |
 | 045 | | | |
 | 046 | | | |
 | 047 | | | |
 | 048 | | | |
 | 049 | | | |
-| 050 | [Pow(x, n)][050-leetcode] | | |
+| 050 | [Pow(x, n)][050-leetcode] | [:octocat:][050-code] | |
 | 051 | | | |
 | 052 | | | |
 | 053 | | | |
@@ -69,18 +69,18 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 055 | | | |
 | 056 | | | |
 | 057 | | | |
-| 058 | [Length of Last Word][058-leetcode] | | |
+| 058 | [Length of Last Word][058-leetcode] | [:octocat:][058-code] | |
 | 059 | | | |
 | 060 | | | |
 | 061 | | | |
 | 062 | | | |
 | 063 | | | |
 | 064 | | | |
-| 065 | [Valid Number][065-leetcode] | | |
+| 065 | [Valid Number][065-leetcode] | [:octocat:][065-code] | |
 | 066 | | | |
-| 067 | [Add Binary][067-leetcode] | | |
+| 067 | [Add Binary][067-leetcode] | [:octocat:][067-code] | |
 | 068 | | | |
-| 069 | [Sqrt(x)][069-leetcode] | | |
+| 069 | [Sqrt(x)][069-leetcode] | [:octocat:][069-code] | |
 | 070 | | | |
 | 071 | | | |
 | 072 | | | |
@@ -136,7 +136,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 122 | | | |
 | 123 | | | |
 | 124 | | | |
-| 125 | [Valid Palindrome][125-leetcode] | | |
+| 125 | [Valid Palindrome][125-leetcode] | [:octocat:][125-code] | |
 | 126 | | | |
 | 127 | | | |
 | 128 | | | |
@@ -147,7 +147,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 133 | | | |
 | 134 | | | |
 | 135 | | | |
-| 136 | [Single Number][136-leetcode] | | |
+| 136 | [Single Number][136-leetcode] | [:octocat:][136-code] | |
 | 137 | | | |
 | 138 | | | |
 | 139 | | | |
@@ -166,7 +166,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 152 | | | |
 | 153 | | | |
 | 154 | | | |
-| 155 | [Min Stack][155-leetcode] | | |
+| 155 | [Min Stack][155-leetcode] | [:octocat:][155-code] | |
 | 156 | | | |
 | 157 | | | |
 | 158 | | | |
@@ -180,14 +180,14 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 166 | | | |
 | 167 | | | |
 | 168 | | | |
-| 169 | [Majority Element][169-leetcode] | | |
+| 169 | [Majority Element][169-leetcode] | [:octocat:][169-code] | |
 | 170 | | | |
-| 171 | [Excel Sheet Column Number][171-leetcode] | | |
+| 171 | [Excel Sheet Column Number][171-leetcode] | [:octocat:][171-code] | |
 | 172 | | | |
 | 173 | | | |
 | 174 | | | |
-| 175 | [Combine Two Tables][175-leetcode] | | |
-| 176 | [Second Highest Salary][176-leetcode] | | |
+| 175 | [Combine Two Tables][175-leetcode] | [:octocat:][175-code] | |
+| 176 | [Second Highest Salary][176-leetcode] | [:octocat:][176-code] | |
 | 177 | | | |
 | 178 | | | |
 | 179 | | | |
@@ -198,15 +198,15 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 184 | | | |
 | 185 | | | |
 | 186 | | | |
-| 187 | [Repeated DNA Sequences][187-leetcode] | | |
+| 187 | [Repeated DNA Sequences][187-leetcode] | [:octocat:][187-code] | |
 | 188 | | | |
 | 189 | | | |
-| 190 | [Reverse Bits][190-leetcode] | | |
-| 191 | [Number of 1 Bits][191-leetcode] | | |
-| 192 | [Word Frequency][192-leetcode] | | |
-| 193 | [Valid Phone Numbers][193-leetcode] | | |
+| 190 | [Reverse Bits][190-leetcode] | [:octocat:][190-code] | |
+| 191 | [Number of 1 Bits][191-leetcode] | [:octocat:][191-code] | |
+| 192 | [Word Frequency][192-leetcode] | [:octocat:][192-code] | |
+| 193 | [Valid Phone Numbers][193-leetcode] | [:octocat:][193-code] | |
 | 194 | | | |
-| 195 | [Tenth Line][195-leetcode] | | |
+| 195 | [Tenth Line][195-leetcode] | [:octocat:][195-code] | |
 | 196 | | | |
 | 197 | | | |
 | 198 | | | |
@@ -226,11 +226,11 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 212 | | | |
 | 213 | | | |
 | 214 | | | |
-| 215 | [Kth Largest Element in an Array][215-leetcode] | | |
+| 215 | [Kth Largest Element in an Array][215-leetcode] | [:octocat:][215-code] | |
 | 216 | | | |
-| 217 | [Contains Duplicate][217-leetcode] | | |
+| 217 | [Contains Duplicate][217-leetcode] | [:octocat:][217-code] | |
 | 218 | | | |
-| 219 | [Contains Duplicate II][219-leetcode] | | |
+| 219 | [Contains Duplicate II][219-leetcode] | [:octocat:][219-code] | |
 | 220 | | | |
 | 221 | | | |
 | 222 | | | |
@@ -242,7 +242,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 228 | | | |
 | 229 | | | |
 | 230 | | | |
-| 231 | [Power of Two][231-leetcode] | | |
+| 231 | [Power of Two][231-leetcode] | [:octocat:][231-code] | |
 | 232 | | | |
 | 233 | | | |
 | 234 | | | |
@@ -253,7 +253,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 239 | | | |
 | 240 | | | |
 | 241 | | | |
-| 242 | [Valid Anagram][242-leetcode] | | |
+| 242 | [Valid Anagram][242-leetcode] | [:octocat:][242-code] | |
 | 243 | | | |
 | 244 | | | |
 | 245 | | | |
@@ -269,9 +269,9 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 255 | | | |
 | 256 | | | |
 | 257 | | | |
-| 258 | [Add Digits][258-leetcode] | | |
+| 258 | [Add Digits][258-leetcode] | [:octocat:][258-code] | |
 | 259 | | | |
-| 260 | [Single Number III][260-leetcode] | | |
+| 260 | [Single Number III][260-leetcode] | [:octocat:][260-code] | |
 | 261 | | | |
 | 262 | | | |
 | 263 | | | |
@@ -279,7 +279,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 265 | | | |
 | 266 | | | |
 | 267 | | | |
-| 268 | [Missing Number][268-leetcode] | | |
+| 268 | [Missing Number][268-leetcode] | [:octocat:][268-code] | |
 | 269 | | | |
 | 270 | | | |
 | 271 | | | |
@@ -294,7 +294,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 280 | | | |
 | 281 | | | |
 | 282 | | | |
-| 283 | [Move Zeroes][283-leetcode] | | |
+| 283 | [Move Zeroes][283-leetcode] | [:octocat:][283-code] | |
 | 284 | | | |
 | 285 | | | |
 | 286 | | | |
@@ -337,7 +337,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 323 | | | |
 | 324 | | | |
 | 325 | | | |
-| 326 | [Power of Three][326-leetcode] | | |
+| 326 | [Power of Three][326-leetcode] | [:octocat:][326-code] | |
 | 327 | | | |
 | 328 | | | |
 | 329 | | | |
@@ -353,14 +353,14 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 339 | | | |
 | 340 | | | |
 | 341 | | | |
-| 342 | [Power of Four][342-leetcode] | | |
+| 342 | [Power of Four][342-leetcode] | [:octocat:][342-code] | |
 | 343 | | | |
-| 344 | [Reverse String][344-leetcode] | | |
+| 344 | [Reverse String][344-leetcode] | [:octocat:][344-code] | |
 | 345 | | | |
 | 346 | | | |
-| 347 | [Top K Frequent Elements][347-leetcode] | | |
+| 347 | [Top K Frequent Elements][347-leetcode] | [:octocat:][347-code] | |
 | 348 | | | |
-| 349 | [Intersection of Two Arrays][349-leetcode] | | |
+| 349 | [Intersection of Two Arrays][349-leetcode] | [:octocat:][349-code] | |
 | 350 | | | |
 | 351 | | | |
 | 352 | | | |
@@ -378,7 +378,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 364 | | | |
 | 365 | | | |
 | 366 | | | |
-| 367 | [Valid Perfect Square][367-leetcode] | | |
+| 367 | [Valid Perfect Square][367-leetcode] | [:octocat:][367-code] | |
 | 368 | | | |
 | 369 | | | |
 | 370 | | | |
@@ -400,7 +400,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 386 | | | |
 | 387 | | | |
 | 388 | | | |
-| 389 | [Find the Difference][389-leetcode] | | |
+| 389 | [Find the Difference][389-leetcode] | [:octocat:][389-code] | |
 | 390 | | | |
 | 391 | | | |
 | 392 | | | |
@@ -423,10 +423,10 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 409 | | | |
 | 410 | | | |
 | 411 | | | |
-| 412 | [Fizz Buzz][412-leetcode] | | |
+| 412 | [Fizz Buzz][412-leetcode] | [:octocat:][412-code] | |
 | 413 | | | |
-| 414 | [Third Maximum Number][414-leetcode] | | |
-| 415 | [Add Strings][415-leetcode] | | |
+| 414 | [Third Maximum Number][414-leetcode] | [:octocat:][414-code] | |
+| 415 | [Add Strings][415-leetcode] | [:octocat:][415-code] | |
 | 416 | | | |
 | 417 | | | |
 | 418 | | | |
@@ -445,7 +445,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 431 | | | |
 | 432 | | | |
 | 433 | | | |
-| 434 | [Number of Segments in a String][434-leetcode] | | |
+| 434 | [Number of Segments in a String][434-leetcode] | [:octocat:][434-code] | |
 | 435 | | | |
 | 436 | | | |
 | 437 | | | |
@@ -453,13 +453,13 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 439 | | | |
 | 440 | | | |
 | 441 | | | |
-| 442 | [Find All Duplicates in an Array][442-leetcode]| | |
+| 442 | [Find All Duplicates in an Array][442-leetcode]| [:octocat:][442-code] | |
 | 443 | | | |
 | 444 | | | |
 | 445 | | | |
 | 446 | | | |
 | 447 | | | |
-| 448 | [Find All Numbers Disappeared in an Array][448-leetcode] | | |
+| 448 | [Find All Numbers Disappeared in an Array][448-leetcode] | [:octocat:][448-code] | |
 | 449 | | | |
 | 450 | | | |
 | 451 | | | |
@@ -472,7 +472,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 458 | | | |
 | 459 | | | |
 | 460 | | | |
-| 461 | [Hamming Distance][461-leetcode] | | |
+| 461 | [Hamming Distance][461-leetcode] | [:octocat:][461-code] | |
 | 462 | | | |
 | 463 | | | |
 | 464 | | | |
@@ -487,38 +487,38 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 473 | | | |
 | 474 | | | |
 | 475 | | | |
-| 476 | [Number Complement][476-leetcode] | | |
+| 476 | [Number Complement][476-leetcode] | [:octocat:][476-code] | |
 | 477 | | | |
 | 478 | | | |
 | 479 | | | |
 | 480 | | | |
 | 481 | | | |
-| 482 | [License Key Formatting][482-leetcode] | | |
+| 482 | [License Key Formatting][482-leetcode] | [:octocat:][482-code] | |
 | 483 | | | |
 | 484 | | | |
-| 485 | [Max Consecutive Ones][485-leetcode] | | |
+| 485 | [Max Consecutive Ones][485-leetcode] | [:octocat:][485-code] | |
 | 486 | | | |
 | 487 | | | |
 | 488 | | | |
 | 489 | | | |
 | 490 | | | |
 | 491 | | | |
-| 492 | [Construct the Rectangle][492-leetcode] | | |
+| 492 | [Construct the Rectangle][492-leetcode] | [:octocat:][492-code] | |
 | 493 | | | |
 | 494 | | | |
-| 495 | [Teemo Attacking][495-leetcode] | | |
+| 495 | [Teemo Attacking][495-leetcode] | [:octocat:][495-code] | |
 | 496 | | | |
 | 497 | | | |
 | 498 | | | |
 | 499 | | | |
-| 500 | [Keyboard Row][500-leetcode] | | |
+| 500 | [Keyboard Row][500-leetcode] | [:octocat:][500-code] | |
 | 501 | | | |
 | 502 | | | |
 | 503 | | | |
-| 504 | [Base 7][504-leetcode] | | |
+| 504 | [Base 7][504-leetcode] | [:octocat:][504-code] | |
 | 505 | | | |
 | 506 | | | |
-| 507 | [Perfect Number][507-leetcode] | | |
+| 507 | [Perfect Number][507-leetcode] | [:octocat:][507-code] | |
 | 508 | | | |
 | 509 | | | |
 | 510 | | | |
@@ -531,7 +531,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 517 | | | |
 | 518 | | | |
 | 519 | | | |
-| 520 | [Detect Capital][520-leetcode] | | |
+| 520 | [Detect Capital][520-leetcode] | [:octocat:][520-code] | |
 | 521 | | | |
 | 522 | | | |
 | 523 | | | |
@@ -548,11 +548,11 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 534 | | | |
 | 535 | | | |
 | 536 | | | |
-| 537 | [Complex Number Multiplication][537-leetcode] | | |
+| 537 | [Complex Number Multiplication][537-leetcode] | [:octocat:][537-code] | |
 | 538 | | | |
 | 539 | | | |
-| 540 | [Single Element in a Sorted Array][540-leetcode] | | |
-| 541 | [Reverse String II][541-leetcode] | | |
+| 540 | [Single Element in a Sorted Array][540-leetcode] | [:octocat:][540-code] | |
+| 541 | [Reverse String II][541-leetcode] | [:octocat:][541-code] | |
 | 542 | | | |
 | 543 | | | |
 | 544 | | | |
@@ -568,16 +568,16 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 554 | | | |
 | 555 | | | |
 | 556 | | | |
-| 557 | [Reverse Words in a String III][557-leetcode] | | |
+| 557 | [Reverse Words in a String III][557-leetcode] | [:octocat:][557-code] | |
 | 558 | | | |
 | 559 | | | |
 | 560 | | | |
-| 561 | [Array Partition I][561-leetcode] | | |
+| 561 | [Array Partition I][561-leetcode] | [:octocat:][561-code] | |
 | 562 | | | |
 | 563 | | | |
 | 564 | | | |
 | 565 | | | |
-| 566 | [Reshape the Matrix][655-leetcode] | | |
+| 566 | [Reshape the Matrix][566-leetcode] | [:octocat:][566-code] | |
 | 567 | | | |
 | 568 | | | |
 | 569 | | | |
@@ -606,7 +606,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 592 | | | |
 | 593 | | | |
 | 594 | | | |
-| 595 | [Big Countries][595-leetcode] | | |
+| 595 | [Big Countries][595-leetcode] | [:octocat:][585-code] | |
 | 596 | | | |
 | 597 | | | |
 | 598 | | | |
@@ -631,20 +631,20 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 617 | | | |
 | 618 | | | |
 | 619 | | | |
-| 620 | [Not Boring Movies][620-leetcode] | | |
+| 620 | [Not Boring Movies][620-leetcode] | [:octocat:][620-code] | |
 | 621 | | | |
 | 622 | | | |
 | 623 | | | |
 | 624 | | | |
 | 625 | | | |
 | 626 | | | |
-| 627 | [Swap Salary][627-leetcode] | | |
+| 627 | [Swap Salary][627-leetcode] | [:octocat:][627-code] | |
 | 628 | | | |
 | 629 | | | |
 | 630 | | | |
 | 631 | | | |
 | 632 | | | |
-| 633 | [Sum of Square Numbers][633-leetcode] | | |
+| 633 | [Sum of Square Numbers][633-leetcode] | [:octocat:][633-code] | |
 | 634 | | | |
 | 635 | | | |
 | 636 | | | |
@@ -656,7 +656,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 642 | | | |
 | 643 | | | |
 | 644 | | | |
-| 645 | [Set Mismatch][645-leetcode] | | |
+| 645 | [Set Mismatch][645-leetcode] | [:octocat:][645-code] | |
 | 646 | | | |
 | 647 | | | |
 | 648 | | | |
@@ -668,7 +668,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 654 | | | |
 | 655 | | | |
 | 656 | | | |
-| 657 | [Judge Route Circle][657-leetcode] | | |
+| 657 | [Judge Route Circle][657-leetcode] | [:octocat:][657-code] | |
 | 658 | | | |
 | 659 | | | |
 | 660 | | | |
@@ -720,7 +720,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 706 | | | |
 | 707 | | | |
 | 708 | | | |
-| 709 | [To Lower Case][709-leetcode] | | |
+| 709 | [To Lower Case][709-leetcode] | [:octocat:][709-code] | |
 | 710 | | | |
 | 711 | | | |
 | 712 | | | |
@@ -735,11 +735,11 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 721 | | | |
 | 722 | | | |
 | 723 | | | |
-| 724 | [Find Pivot Index][724-leetcode] | | |
+| 724 | [Find Pivot Index][724-leetcode] | [:octocat:][724-code] | |
 | 725 | | | |
 | 726 | | | |
 | 727 | | | |
-| 728 | [Self Dividing Numbers][728-leetcode] | | |
+| 728 | [Self Dividing Numbers][728-leetcode] | [:octocat:][728-code] | |
 | 729 | | | |
 | 730 | | | |
 | 731 | | | |
@@ -758,7 +758,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 744 | | | |
 | 745 | | | |
 | 746 | | | |
-| 747 | [Largest Number At Least Twice of Others][747-leetcode] | | |
+| 747 | [Largest Number At Least Twice of Others][747-leetcode] | [:octocat:][747-code] | |
 | 748 | | | |
 | 749 | | | |
 | 750 | | | |
@@ -782,7 +782,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 768 | | | |
 | 769 | | | |
 | 770 | | | |
-| 771 | [Jewels and Stones][771-leetcode] | | |
+| 771 | [Jewels and Stones][771-leetcode] | [:octocat:][771-code] | |
 | 772 | | | |
 | 773 | | | |
 | 774 | | | |
@@ -807,7 +807,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 793 | | | |
 | 794 | | | |
 | 795 | | | |
-| 796 | [Rotate String][796-leetcode] | | |
+| 796 | [Rotate String][796-leetcode] | [:octocat:][796-code] | |
 | 797 | | | |
 | 798 | | | |
 | 799 | | | |
@@ -815,7 +815,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 801 | | | |
 | 802 | | | |
 | 803 | | | |
-| 804 | [Unique Morse Code Words][804-leetcode] | | |
+| 804 | [Unique Morse Code Words][804-leetcode] | [:octocat:][804-code] | |
 | 805 | | | |
 | 806 | | | |
 | 807 | | | |
@@ -832,7 +832,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 818 | | | |
 | 819 | | | |
 | 820 | | | |
-| 821 | [Shortest Distance to a Character][821-leetcode] | | |
+| 821 | [Shortest Distance to a Character][821-leetcode] | [:octocat:][821-code] | |
 | 822 | | | |
 | 823 | | | |
 | 824 | | | |
@@ -843,7 +843,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 829 | | | |
 | 830 | | | |
 | 831 | | | |
-| 832 | [Flipping an Image][832-leetcode] | | |
+| 832 | [Flipping an Image][832-leetcode] | [:octocat:][832-code] | |
 | 833 | | | |
 | 834 | | | |
 | 835 | | | |
@@ -855,7 +855,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 841 | | | |
 | 842 | | | |
 | 843 | | | |
-| 844 | [Backspace String Compare][844-leetcode] | | |
+| 844 | [Backspace String Compare][844-leetcode] | [:octocat:][844-code] | |
 | 845 | | | |
 | 846 | | | |
 | 847 | | | |
@@ -863,14 +863,14 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 849 | | | |
 | 850 | | | |
 | 851 | | | |
-| 852 | [Peak Index in a Mountain Array][852-leetcode] | | |
+| 852 | [Peak Index in a Mountain Array][852-leetcode] | [:octocat:][852-code] | |
 | 853 | | | |
 | 854 | | | |
 | 855 | | | |
 | 856 | | | |
 | 857 | | | |
 | 858 | | | |
-| 859 | [Buddy Strings][859-leetcode] | | |
+| 859 | [Buddy Strings][859-leetcode] | [:octocat:][859-code] | |
 | 860 | | | |
 | 861 | | | |
 | 862 | | | |
@@ -878,9 +878,9 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 864 | | | |
 | 865 | | | |
 | 866 | | | |
-| 867 | [Transpose Matrix][867-leetcode] | | |
-| 868 | [Binary Gap][868-leetcode] | | |
-| 869 | [Reordered Power of 2][869-leetcode] | | |
+| 867 | [Transpose Matrix][867-leetcode] | [:octocat:][867-code] | |
+| 868 | [Binary Gap][868-leetcode] | [:octocat:][868-code] | |
+| 869 | [Reordered Power of 2][869-leetcode] | [:octocat:][869-code] | |
 | 870 | | | |
 | 871 | | | |
 | 872 | | | |
