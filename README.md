@@ -11,7 +11,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 ## Table of Contents
 
 | # | Title | Source Code | Explanation |
-|:---:|:---:|:---:|:---:|:---:|
+| :---: | :---: | :---: | :---: |
 | 001 | [Two Sum][001-leetcode] | [:octocat:][001-code] | [:book:][001-doc] |
 | 002 | | | |
 | 003 | | | |
@@ -889,7 +889,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 875 | | | |
 
 <!-- source code links-->
-[001-leetcode]: 
+[001-leetcode]: https://leetcode.com/problems/two-sum/description/
 [002-leetcode]: 
 [003-leetcode]: 
 [004-leetcode]: 
