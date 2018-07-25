@@ -4,4 +4,4 @@
   </a>
 </p>
 
-# Leetcode solutions with Python
+# 领扣(LeetCode)Python解法
