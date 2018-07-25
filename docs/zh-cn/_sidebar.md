@@ -1,2 +1,2 @@
 - 目录
-  - [001 Two Sum](zh-cn/algorithms/001_two-sum.md)
+  - [001 Two Sum 两数相加](zh-cn/algorithms/001_two-sum.md)

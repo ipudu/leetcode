@@ -5,3 +5,14 @@
 </p>
 
 # 领扣(LeetCode)Python解法
+
+
+## 目录
+
+| # | 题目 | 源代码 | 解法释义 |
+|:---:|:---:|:---:|:---:|:---:|
+| 001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [:octocat:][001-code] | [:book:][001-doc] |
+
+[001-code]: https://github.com/ipudu/leetcode-solutions/blob/master/solutions/001_two-sum.py
+
+[001-doc]: zh-cn/algorithms/001_two-sum.md
