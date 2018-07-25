@@ -6,6 +6,11 @@
 
 # 领扣(LeetCode)Python解法
 
+<p align="center">
+  <a href="https://leetcode.win">
+  <img alt="progress" src="https://leetcode.win/assets/images/progress.jpeg" width="50%" height="50%">
+  </a>
+</p>
 
 ## 目录
 

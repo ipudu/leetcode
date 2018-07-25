@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://leetcode.win">
-    <img alt="Leetcode solutions with Python" src="https://leetcode.win/assets/images/logo.png" width="80%" height="80%">
+    <img alt="Leetcode solutions with Python" src="https://leetcode.win/assets/images/logo.png" width="0%" height="80%">
   </a>
 </p>
 
@@ -9,7 +9,9 @@
 This repository provides python code solutions for leetcode [problems](https://leetcode.com/problemset/all/).
 
 <p align="center">
-  <img alt="progress" src="https://leetcode.win/assets/images/progress.jpeg" width="80%" height="80%">
+  <a href="https://leetcode.win">
+  <img alt="progress" src="https://leetcode.win/assets/images/progress.jpeg" width="50%" height="50%">
+  </a>
 </p>
 
 ## Table of Contents
