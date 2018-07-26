@@ -892,7 +892,6 @@
 | 874 | | | |
 | 875 | | | |
 
-<!-- source code links-->
 [001-code]: https://github.com/ipudu/leetcode/blob/master/solutions/001_two-sum.py
 [002-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [003-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
@@ -1769,7 +1768,6 @@
 [874-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [875-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 
-<!-- explanation links-->
 [001-doc]: https://leetcode.win/#/algorithms/001_two-sum.md
 [002-doc]: https://leetcode.win/#/zh-cn/algorithms/
 [003-doc]: https://leetcode.win/#/zh-cn/algorithms/
