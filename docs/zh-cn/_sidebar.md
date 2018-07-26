@@ -1,2 +1,2 @@
 - 目录
-  - [001 Two Sum 两数相加](zh-cn/algorithms/001_two-sum.md)
+  - [451 Sort Characters By Frequency 按字母频率排序](zh-cn/algorithms/451_sort-characters-by-frequency.md)

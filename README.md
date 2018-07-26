@@ -18,7 +18,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 
 | # | Title | Source Code | Explanation |
 | :---: | :---: | :---: | :---: |
-| 001 | **Two Sum** | [:octocat:][001-code] | [:book:](https://leetcode.win/#/algorithms/001_two-sum.md) |
+| 001 | **Two Sum** | [:octocat:][001-code] | |
 | 002 | | | |
 | 003 | | | |
 | 004 | **Median of Two Sorted Arrays** | [:octocat:][004-code] | |

@@ -16,7 +16,7 @@
 
 | # | 题目 | 源代码 | 解法释义 |
 | :---: | :---: | :---: | :---: |
-| 001 | **Two Sum** | [:octocat:][001-code] | [:book:](https://leetcode.win/#/zh-cn/algorithms/001_two-sum.md) |
+| 001 | **Two Sum** | [:octocat:][001-code] | |
 | 002 | | | |
 | 003 | | | |
 | 004 | **Median of Two Sorted Arrays** | [:octocat:][004-code] | |
