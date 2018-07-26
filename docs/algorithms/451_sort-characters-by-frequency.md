@@ -43,7 +43,7 @@ Note that 'A' and 'a' are treated as two different characters.
 ###### Approach 1
 
 The character in the giving string and its frequency can be save in a dictionary. Then, we
-can sort the dictionary by the value in decreasing order. Repeat a character n times can be done
+can sort the dictionary by the value in decreasing order. Repeating a character n times can be done
 by using Python syntax sugar: `c * n`.
 
 ```python
