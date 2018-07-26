@@ -18,7 +18,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 
 | # | Title | Source Code | Explanation |
 | :---: | :---: | :---: | :---: |
-| 001 | **Two Sum**] | [:octocat:][001-code] | [:book:][001-doc] |
+| 001 | **Two Sum** | [:octocat:][001-code] | [:book:][001-doc] |
 | 002 | | | |
 | 003 | | | |
 | 004 | **Median of Two Sorted Arrays** | [:octocat:][004-code] | |
@@ -67,7 +67,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 047 | | | |
 | 048 | | | |
 | 049 | | | |
-| 050 | **Pow(x, n)][050-leetcode** | [:octocat:][050-code] | |
+| 050 | **Pow(x, n)** | [:octocat:][050-code] | |
 | 051 | | | |
 | 052 | | | |
 | 053 | | | |
