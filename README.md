@@ -18,15 +18,15 @@ This repository provides python code solutions for leetcode [problems](https://l
 
 | # | Title | Source Code | Explanation |
 | :---: | :---: | :---: | :---: |
-| 001 | [Two Sum][001-leetcode] | [:octocat:][001-code] | [:book:][001-doc] |
+| 001 | **Two Sum**] | [:octocat:][001-code] | [:book:][001-doc] |
 | 002 | | | |
 | 003 | | | |
-| 004 | [Median of Two Sorted Arrays][004-leetcode] | [:octocat:][004-code] | |
+| 004 | **Median of Two Sorted Arrays** | [:octocat:][004-code] | |
 | 005 | | | |
 | 006 | | | |
-| 007 | [Reverse Integer][007-leetcode] | [:octocat:][007-code] | |
+| 007 | **Reverse Integer** | [:octocat:][007-code] | |
 | 008 | | | |
-| 009 | [Palindrome Number][009-leetcode] | [:octocat:][009-code] | |
+| 009 | **Palindrome Number** | [:octocat:][009-code] | |
 | 010 | | | |
 | 011 | | | |
 | 012 | | | |
@@ -43,8 +43,8 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 023 | | | |
 | 024 | | | |
 | 025 | | | |
-| 026 | [Remove Duplicates from Sorted Array][026-leetcode] | [:octocat:][026-code] | |
-| 027 | [Remove Element][027-leetcode] | [:octocat:][027-code] | |
+| 026 | **Remove Duplicates from Sorted Array** | [:octocat:][026-code] | |
+| 027 | **Remove Element** | [:octocat:][027-code] | |
 | 028 | | | |
 | 029 | | | |
 | 030 | | | |
@@ -52,7 +52,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 032 | | | |
 | 033 | | | |
 | 034 | | | |
-| 035 | [Search Insert Position][035-leetcode] | [:octocat:][035-code] | |
+| 035 | **Search Insert Position** | [:octocat:][035-code] | |
 | 036 | | | |
 | 037 | | | |
 | 038 | | | |
@@ -60,14 +60,14 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 040 | | | |
 | 041 | | | |
 | 042 | | | |
-| 043 | [Multiply Strings][043-leetcode] | [:octocat:][043-code] | |
+| 043 | **Multiply Strings** | [:octocat:][043-code] | |
 | 044 | | | |
 | 045 | | | |
 | 046 | | | |
 | 047 | | | |
 | 048 | | | |
 | 049 | | | |
-| 050 | [Pow(x, n)][050-leetcode] | [:octocat:][050-code] | |
+| 050 | **Pow(x, n)][050-leetcode** | [:octocat:][050-code] | |
 | 051 | | | |
 | 052 | | | |
 | 053 | | | |
@@ -75,18 +75,18 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 055 | | | |
 | 056 | | | |
 | 057 | | | |
-| 058 | [Length of Last Word][058-leetcode] | [:octocat:][058-code] | |
+| 058 | **Length of Last Word** | [:octocat:][058-code] | |
 | 059 | | | |
 | 060 | | | |
 | 061 | | | |
 | 062 | | | |
 | 063 | | | |
 | 064 | | | |
-| 065 | [Valid Number][065-leetcode] | [:octocat:][065-code] | |
+| 065 | **Valid Number** | [:octocat:][065-code] | |
 | 066 | | | |
-| 067 | [Add Binary][067-leetcode] | [:octocat:][067-code] | |
+| 067 | **Add Binary** | [:octocat:][067-code] | |
 | 068 | | | |
-| 069 | [Sqrt(x)][069-leetcode] | [:octocat:][069-code] | |
+| 069 | **Sqrt(x)** | [:octocat:][069-code] | |
 | 070 | | | |
 | 071 | | | |
 | 072 | | | |
@@ -142,7 +142,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 122 | | | |
 | 123 | | | |
 | 124 | | | |
-| 125 | [Valid Palindrome][125-leetcode] | [:octocat:][125-code] | |
+| 125 | **Valid Palindrome** | [:octocat:][125-code] | |
 | 126 | | | |
 | 127 | | | |
 | 128 | | | |
@@ -153,7 +153,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 133 | | | |
 | 134 | | | |
 | 135 | | | |
-| 136 | [Single Number][136-leetcode] | [:octocat:][136-code] | |
+| 136 | **Single Number** | [:octocat:][136-code] | |
 | 137 | | | |
 | 138 | | | |
 | 139 | | | |
@@ -172,7 +172,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 152 | | | |
 | 153 | | | |
 | 154 | | | |
-| 155 | [Min Stack][155-leetcode] | [:octocat:][155-code] | |
+| 155 | **Min Stack** | [:octocat:][155-code] | |
 | 156 | | | |
 | 157 | | | |
 | 158 | | | |
@@ -186,14 +186,14 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 166 | | | |
 | 167 | | | |
 | 168 | | | |
-| 169 | [Majority Element][169-leetcode] | [:octocat:][169-code] | |
+| 169 | **Majority Element** | [:octocat:][169-code] | |
 | 170 | | | |
-| 171 | [Excel Sheet Column Number][171-leetcode] | [:octocat:][171-code] | |
+| 171 | **Excel Sheet Column Number** | [:octocat:][171-code] | |
 | 172 | | | |
 | 173 | | | |
 | 174 | | | |
-| 175 | [Combine Two Tables][175-leetcode] | [:octocat:][175-code] | |
-| 176 | [Second Highest Salary][176-leetcode] | [:octocat:][176-code] | |
+| 175 | **Combine Two Tables** | [:octocat:][175-code] | |
+| 176 | **Second Highest Salary** | [:octocat:][176-code] | |
 | 177 | | | |
 | 178 | | | |
 | 179 | | | |
@@ -204,15 +204,15 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 184 | | | |
 | 185 | | | |
 | 186 | | | |
-| 187 | [Repeated DNA Sequences][187-leetcode] | [:octocat:][187-code] | |
+| 187 | **Repeated DNA Sequences** | [:octocat:][187-code] | |
 | 188 | | | |
 | 189 | | | |
-| 190 | [Reverse Bits][190-leetcode] | [:octocat:][190-code] | |
-| 191 | [Number of 1 Bits][191-leetcode] | [:octocat:][191-code] | |
-| 192 | [Word Frequency][192-leetcode] | [:octocat:][192-code] | |
-| 193 | [Valid Phone Numbers][193-leetcode] | [:octocat:][193-code] | |
+| 190 | **Reverse Bits** | [:octocat:][190-code] | |
+| 191 | **Number of 1 Bits** | [:octocat:][191-code] | |
+| 192 | **Word Frequency** | [:octocat:][192-code] | |
+| 193 | **Valid Phone Numbers** | [:octocat:][193-code] | |
 | 194 | | | |
-| 195 | [Tenth Line][195-leetcode] | [:octocat:][195-code] | |
+| 195 | **Tenth Line** | [:octocat:][195-code] | |
 | 196 | | | |
 | 197 | | | |
 | 198 | | | |
@@ -232,11 +232,11 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 212 | | | |
 | 213 | | | |
 | 214 | | | |
-| 215 | [Kth Largest Element in an Array][215-leetcode] | [:octocat:][215-code] | |
+| 215 | **Kth Largest Element in an Array** | [:octocat:][215-code] | |
 | 216 | | | |
-| 217 | [Contains Duplicate][217-leetcode] | [:octocat:][217-code] | |
+| 217 | **Contains Duplicate** | [:octocat:][217-code] | |
 | 218 | | | |
-| 219 | [Contains Duplicate II][219-leetcode] | [:octocat:][219-code] | |
+| 219 | **Contains Duplicate II** | [:octocat:][219-code] | |
 | 220 | | | |
 | 221 | | | |
 | 222 | | | |
@@ -248,7 +248,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 228 | | | |
 | 229 | | | |
 | 230 | | | |
-| 231 | [Power of Two][231-leetcode] | [:octocat:][231-code] | |
+| 231 | **Power of Two** | [:octocat:][231-code] | |
 | 232 | | | |
 | 233 | | | |
 | 234 | | | |
@@ -259,7 +259,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 239 | | | |
 | 240 | | | |
 | 241 | | | |
-| 242 | [Valid Anagram][242-leetcode] | [:octocat:][242-code] | |
+| 242 | **Valid Anagram** | [:octocat:][242-code] | |
 | 243 | | | |
 | 244 | | | |
 | 245 | | | |
@@ -275,9 +275,9 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 255 | | | |
 | 256 | | | |
 | 257 | | | |
-| 258 | [Add Digits][258-leetcode] | [:octocat:][258-code] | |
+| 258 | **Add Digits** | [:octocat:][258-code] | |
 | 259 | | | |
-| 260 | [Single Number III][260-leetcode] | [:octocat:][260-code] | |
+| 260 | **Single Number III** | [:octocat:][260-code] | |
 | 261 | | | |
 | 262 | | | |
 | 263 | | | |
@@ -285,7 +285,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 265 | | | |
 | 266 | | | |
 | 267 | | | |
-| 268 | [Missing Number][268-leetcode] | [:octocat:][268-code] | |
+| 268 | **Missing Number** | [:octocat:][268-code] | |
 | 269 | | | |
 | 270 | | | |
 | 271 | | | |
@@ -300,7 +300,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 280 | | | |
 | 281 | | | |
 | 282 | | | |
-| 283 | [Move Zeroes][283-leetcode] | [:octocat:][283-code] | |
+| 283 | **Move Zeroes** | [:octocat:][283-code] | |
 | 284 | | | |
 | 285 | | | |
 | 286 | | | |
@@ -343,7 +343,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 323 | | | |
 | 324 | | | |
 | 325 | | | |
-| 326 | [Power of Three][326-leetcode] | [:octocat:][326-code] | |
+| 326 | **Power of Three** | [:octocat:][326-code] | |
 | 327 | | | |
 | 328 | | | |
 | 329 | | | |
@@ -359,14 +359,14 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 339 | | | |
 | 340 | | | |
 | 341 | | | |
-| 342 | [Power of Four][342-leetcode] | [:octocat:][342-code] | |
+| 342 | **Power of Four** | [:octocat:][342-code] | |
 | 343 | | | |
-| 344 | [Reverse String][344-leetcode] | [:octocat:][344-code] | |
+| 344 | **Reverse String** | [:octocat:][344-code] | |
 | 345 | | | |
 | 346 | | | |
-| 347 | [Top K Frequent Elements][347-leetcode] | [:octocat:][347-code] | |
+| 347 | **Top K Frequent Elements** | [:octocat:][347-code] | |
 | 348 | | | |
-| 349 | [Intersection of Two Arrays][349-leetcode] | [:octocat:][349-code] | |
+| 349 | **Intersection of Two Arrays** | [:octocat:][349-code] | |
 | 350 | | | |
 | 351 | | | |
 | 352 | | | |
@@ -384,7 +384,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 364 | | | |
 | 365 | | | |
 | 366 | | | |
-| 367 | [Valid Perfect Square][367-leetcode] | [:octocat:][367-code] | |
+| 367 | **Valid Perfect Square** | [:octocat:][367-code] | |
 | 368 | | | |
 | 369 | | | |
 | 370 | | | |
@@ -406,7 +406,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 386 | | | |
 | 387 | | | |
 | 388 | | | |
-| 389 | [Find the Difference][389-leetcode] | [:octocat:][389-code] | |
+| 389 | **Find the Difference** | [:octocat:][389-code] | |
 | 390 | | | |
 | 391 | | | |
 | 392 | | | |
@@ -429,10 +429,10 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 409 | | | |
 | 410 | | | |
 | 411 | | | |
-| 412 | [Fizz Buzz][412-leetcode] | [:octocat:][412-code] | |
+| 412 | **Fizz Buzz** | [:octocat:][412-code] | |
 | 413 | | | |
-| 414 | [Third Maximum Number][414-leetcode] | [:octocat:][414-code] | |
-| 415 | [Add Strings][415-leetcode] | [:octocat:][415-code] | |
+| 414 | **Third Maximum Number** | [:octocat:][414-code] | |
+| 415 | **Add Strings** | [:octocat:][415-code] | |
 | 416 | | | |
 | 417 | | | |
 | 418 | | | |
@@ -451,7 +451,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 431 | | | |
 | 432 | | | |
 | 433 | | | |
-| 434 | [Number of Segments in a String][434-leetcode] | [:octocat:][434-code] | |
+| 434 | **Number of Segments in a String** | [:octocat:][434-code] | |
 | 435 | | | |
 | 436 | | | |
 | 437 | | | |
@@ -459,13 +459,13 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 439 | | | |
 | 440 | | | |
 | 441 | | | |
-| 442 | [Find All Duplicates in an Array][442-leetcode]| [:octocat:][442-code] | |
+| 442 | **Find All Duplicates in an Array** | [:octocat:][442-code] | |
 | 443 | | | |
 | 444 | | | |
 | 445 | | | |
 | 446 | | | |
 | 447 | | | |
-| 448 | [Find All Numbers Disappeared in an Array][448-leetcode] | [:octocat:][448-code] | |
+| 448 | **Find All Numbers Disappeared in an Array** | [:octocat:][448-code] | |
 | 449 | | | |
 | 450 | | | |
 | 451 | | | |
@@ -478,7 +478,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 458 | | | |
 | 459 | | | |
 | 460 | | | |
-| 461 | [Hamming Distance][461-leetcode] | [:octocat:][461-code] | |
+| 461 | **Hamming Distance** | [:octocat:][461-code] | |
 | 462 | | | |
 | 463 | | | |
 | 464 | | | |
@@ -493,38 +493,38 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 473 | | | |
 | 474 | | | |
 | 475 | | | |
-| 476 | [Number Complement][476-leetcode] | [:octocat:][476-code] | |
+| 476 | **Number Complement** | [:octocat:][476-code] | |
 | 477 | | | |
 | 478 | | | |
 | 479 | | | |
 | 480 | | | |
 | 481 | | | |
-| 482 | [License Key Formatting][482-leetcode] | [:octocat:][482-code] | |
+| 482 | **License Key Formatting** | [:octocat:][482-code] | |
 | 483 | | | |
 | 484 | | | |
-| 485 | [Max Consecutive Ones][485-leetcode] | [:octocat:][485-code] | |
+| 485 | **Max Consecutive Ones** | [:octocat:][485-code] | |
 | 486 | | | |
 | 487 | | | |
 | 488 | | | |
 | 489 | | | |
 | 490 | | | |
 | 491 | | | |
-| 492 | [Construct the Rectangle][492-leetcode] | [:octocat:][492-code] | |
+| 492 | **Construct the Rectangle** | [:octocat:][492-code] | |
 | 493 | | | |
 | 494 | | | |
-| 495 | [Teemo Attacking][495-leetcode] | [:octocat:][495-code] | |
+| 495 | **Teemo Attacking** | [:octocat:][495-code] | |
 | 496 | | | |
 | 497 | | | |
 | 498 | | | |
 | 499 | | | |
-| 500 | [Keyboard Row][500-leetcode] | [:octocat:][500-code] | |
+| 500 | **Keyboard Row** | [:octocat:][500-code] | |
 | 501 | | | |
 | 502 | | | |
 | 503 | | | |
-| 504 | [Base 7][504-leetcode] | [:octocat:][504-code] | |
+| 504 | **Base 7** | [:octocat:][504-code] | |
 | 505 | | | |
 | 506 | | | |
-| 507 | [Perfect Number][507-leetcode] | [:octocat:][507-code] | |
+| 507 | **Perfect Number** | [:octocat:][507-code] | |
 | 508 | | | |
 | 509 | | | |
 | 510 | | | |
@@ -537,7 +537,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 517 | | | |
 | 518 | | | |
 | 519 | | | |
-| 520 | [Detect Capital][520-leetcode] | [:octocat:][520-code] | |
+| 520 | **Detect Capital** | [:octocat:][520-code] | |
 | 521 | | | |
 | 522 | | | |
 | 523 | | | |
@@ -554,11 +554,11 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 534 | | | |
 | 535 | | | |
 | 536 | | | |
-| 537 | [Complex Number Multiplication][537-leetcode] | [:octocat:][537-code] | |
+| 537 | **Complex Number Multiplication** | [:octocat:][537-code] | |
 | 538 | | | |
 | 539 | | | |
-| 540 | [Single Element in a Sorted Array][540-leetcode] | [:octocat:][540-code] | |
-| 541 | [Reverse String II][541-leetcode] | [:octocat:][541-code] | |
+| 540 | **Single Element in a Sorted Array** | [:octocat:][540-code] | |
+| 541 | **Reverse String II** | [:octocat:][541-code] | |
 | 542 | | | |
 | 543 | | | |
 | 544 | | | |
@@ -574,16 +574,16 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 554 | | | |
 | 555 | | | |
 | 556 | | | |
-| 557 | [Reverse Words in a String III][557-leetcode] | [:octocat:][557-code] | |
+| 557 | **Reverse Words in a String III** | [:octocat:][557-code] | |
 | 558 | | | |
 | 559 | | | |
 | 560 | | | |
-| 561 | [Array Partition I][561-leetcode] | [:octocat:][561-code] | |
+| 561 | **Array Partition I** | [:octocat:][561-code] | |
 | 562 | | | |
 | 563 | | | |
 | 564 | | | |
 | 565 | | | |
-| 566 | [Reshape the Matrix][566-leetcode] | [:octocat:][566-code] | |
+| 566 | **Reshape the Matrix** | [:octocat:][566-code] | |
 | 567 | | | |
 | 568 | | | |
 | 569 | | | |
@@ -612,7 +612,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 592 | | | |
 | 593 | | | |
 | 594 | | | |
-| 595 | [Big Countries][595-leetcode] | [:octocat:][595-code] | |
+| 595 | **Big Countries** | [:octocat:][595-code] | |
 | 596 | | | |
 | 597 | | | |
 | 598 | | | |
@@ -637,20 +637,20 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 617 | | | |
 | 618 | | | |
 | 619 | | | |
-| 620 | [Not Boring Movies][620-leetcode] | [:octocat:][620-code] | |
+| 620 | **Not Boring Movies** | [:octocat:][620-code] | |
 | 621 | | | |
 | 622 | | | |
 | 623 | | | |
 | 624 | | | |
 | 625 | | | |
 | 626 | | | |
-| 627 | [Swap Salary][627-leetcode] | [:octocat:][627-code] | |
+| 627 | **Swap Salary** | [:octocat:][627-code] | |
 | 628 | | | |
 | 629 | | | |
 | 630 | | | |
 | 631 | | | |
 | 632 | | | |
-| 633 | [Sum of Square Numbers][633-leetcode] | [:octocat:][633-code] | |
+| 633 | **Sum of Square Numbers** | [:octocat:][633-code] | |
 | 634 | | | |
 | 635 | | | |
 | 636 | | | |
@@ -662,7 +662,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 642 | | | |
 | 643 | | | |
 | 644 | | | |
-| 645 | [Set Mismatch][645-leetcode] | [:octocat:][645-code] | |
+| 645 | **Set Mismatch** | [:octocat:][645-code] | |
 | 646 | | | |
 | 647 | | | |
 | 648 | | | |
@@ -674,7 +674,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 654 | | | |
 | 655 | | | |
 | 656 | | | |
-| 657 | [Judge Route Circle][657-leetcode] | [:octocat:][657-code] | |
+| 657 | **Judge Route Circle** | [:octocat:][657-code] | |
 | 658 | | | |
 | 659 | | | |
 | 660 | | | |
@@ -726,7 +726,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 706 | | | |
 | 707 | | | |
 | 708 | | | |
-| 709 | [To Lower Case][709-leetcode] | [:octocat:][709-code] | |
+| 709 | **To Lower Case** | [:octocat:][709-code] | |
 | 710 | | | |
 | 711 | | | |
 | 712 | | | |
@@ -741,11 +741,11 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 721 | | | |
 | 722 | | | |
 | 723 | | | |
-| 724 | [Find Pivot Index][724-leetcode] | [:octocat:][724-code] | |
+| 724 | **Find Pivot Index** | [:octocat:][724-code] | |
 | 725 | | | |
 | 726 | | | |
 | 727 | | | |
-| 728 | [Self Dividing Numbers][728-leetcode] | [:octocat:][728-code] | |
+| 728 | **Self Dividing Numbers** | [:octocat:][728-code] | |
 | 729 | | | |
 | 730 | | | |
 | 731 | | | |
@@ -764,7 +764,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 744 | | | |
 | 745 | | | |
 | 746 | | | |
-| 747 | [Largest Number At Least Twice of Others][747-leetcode] | [:octocat:][747-code] | |
+| 747 | **Largest Number At Least Twice of Others** | [:octocat:][747-code] | |
 | 748 | | | |
 | 749 | | | |
 | 750 | | | |
@@ -788,7 +788,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 768 | | | |
 | 769 | | | |
 | 770 | | | |
-| 771 | [Jewels and Stones][771-leetcode] | [:octocat:][771-code] | |
+| 771 | **Jewels and Stones** | [:octocat:][771-code] | |
 | 772 | | | |
 | 773 | | | |
 | 774 | | | |
@@ -813,7 +813,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 793 | | | |
 | 794 | | | |
 | 795 | | | |
-| 796 | [Rotate String][796-leetcode] | [:octocat:][796-code] | |
+| 796 | **Rotate String** | [:octocat:][796-code] | |
 | 797 | | | |
 | 798 | | | |
 | 799 | | | |
@@ -821,7 +821,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 801 | | | |
 | 802 | | | |
 | 803 | | | |
-| 804 | [Unique Morse Code Words][804-leetcode] | [:octocat:][804-code] | |
+| 804 | **Unique Morse Code Words** | [:octocat:][804-code] | |
 | 805 | | | |
 | 806 | | | |
 | 807 | | | |
@@ -838,7 +838,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 818 | | | |
 | 819 | | | |
 | 820 | | | |
-| 821 | [Shortest Distance to a Character][821-leetcode] | [:octocat:][821-code] | |
+| 821 | **Shortest Distance to a Character** | [:octocat:][821-code] | |
 | 822 | | | |
 | 823 | | | |
 | 824 | | | |
@@ -849,7 +849,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 829 | | | |
 | 830 | | | |
 | 831 | | | |
-| 832 | [Flipping an Image][832-leetcode] | [:octocat:][832-code] | |
+| 832 | **Flipping an Image** | [:octocat:][832-code] | |
 | 833 | | | |
 | 834 | | | |
 | 835 | | | |
@@ -861,7 +861,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 841 | | | |
 | 842 | | | |
 | 843 | | | |
-| 844 | [Backspace String Compare][844-leetcode] | [:octocat:][844-code] | |
+| 844 | **Backspace String Compare** | [:octocat:][844-code] | |
 | 845 | | | |
 | 846 | | | |
 | 847 | | | |
@@ -869,14 +869,14 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 849 | | | |
 | 850 | | | |
 | 851 | | | |
-| 852 | [Peak Index in a Mountain Array][852-leetcode] | [:octocat:][852-code] | |
+| 852 | **Peak Index in a Mountain Array** | [:octocat:][852-code] | |
 | 853 | | | |
 | 854 | | | |
 | 855 | | | |
 | 856 | | | |
 | 857 | | | |
 | 858 | | | |
-| 859 | [Buddy Strings][859-leetcode] | [:octocat:][859-code] | |
+| 859 | **Buddy Strings** | [:octocat:][859-code] | |
 | 860 | | | |
 | 861 | | | |
 | 862 | | | |
@@ -884,892 +884,15 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 864 | | | |
 | 865 | | | |
 | 866 | | | |
-| 867 | [Transpose Matrix][867-leetcode] | [:octocat:][867-code] | |
-| 868 | [Binary Gap][868-leetcode] | [:octocat:][868-code] | |
-| 869 | [Reordered Power of 2][869-leetcode] | [:octocat:][869-code] | |
+| 867 | **Transpose Matrix** | [:octocat:][867-code] | |
+| 868 | **Binary Gap** | [:octocat:][868-code] | |
+| 869 | **Reordered Power of 2** | [:octocat:][869-code] | |
 | 870 | | | |
 | 871 | | | |
 | 872 | | | |
 | 873 | | | |
 | 874 | | | |
 | 875 | | | |
-
-<!-- source code links-->
-[001-leetcode]: https://leetcode.com/problems/two-sum
-[002-leetcode]: https://leetcode.com/problems/ 
-[003-leetcode]: https://leetcode.com/problems/ 
-[004-leetcode]: https://leetcode.com/problems/ 
-[005-leetcode]: https://leetcode.com/problems/ 
-[006-leetcode]: https://leetcode.com/problems/ 
-[007-leetcode]: https://leetcode.com/problems/ 
-[008-leetcode]: https://leetcode.com/problems/ 
-[009-leetcode]: https://leetcode.com/problems/ 
-[010-leetcode]: https://leetcode.com/problems/ 
-[011-leetcode]: https://leetcode.com/problems/ 
-[012-leetcode]: https://leetcode.com/problems/ 
-[013-leetcode]: https://leetcode.com/problems/ 
-[014-leetcode]: https://leetcode.com/problems/ 
-[015-leetcode]: https://leetcode.com/problems/ 
-[016-leetcode]: https://leetcode.com/problems/ 
-[017-leetcode]: https://leetcode.com/problems/ 
-[018-leetcode]: https://leetcode.com/problems/ 
-[019-leetcode]: https://leetcode.com/problems/ 
-[020-leetcode]: https://leetcode.com/problems/ 
-[021-leetcode]: https://leetcode.com/problems/ 
-[022-leetcode]: https://leetcode.com/problems/ 
-[023-leetcode]: https://leetcode.com/problems/ 
-[024-leetcode]: https://leetcode.com/problems/ 
-[025-leetcode]: https://leetcode.com/problems/ 
-[026-leetcode]: https://leetcode.com/problems/ 
-[027-leetcode]: https://leetcode.com/problems/ 
-[028-leetcode]: https://leetcode.com/problems/ 
-[029-leetcode]: https://leetcode.com/problems/ 
-[030-leetcode]: https://leetcode.com/problems/ 
-[031-leetcode]: https://leetcode.com/problems/ 
-[032-leetcode]: https://leetcode.com/problems/ 
-[033-leetcode]: https://leetcode.com/problems/ 
-[034-leetcode]: https://leetcode.com/problems/ 
-[035-leetcode]: https://leetcode.com/problems/ 
-[036-leetcode]: https://leetcode.com/problems/ 
-[037-leetcode]: https://leetcode.com/problems/ 
-[038-leetcode]: https://leetcode.com/problems/ 
-[039-leetcode]: https://leetcode.com/problems/ 
-[040-leetcode]: https://leetcode.com/problems/ 
-[041-leetcode]: https://leetcode.com/problems/ 
-[042-leetcode]: https://leetcode.com/problems/ 
-[043-leetcode]: https://leetcode.com/problems/ 
-[044-leetcode]: https://leetcode.com/problems/ 
-[045-leetcode]: https://leetcode.com/problems/ 
-[046-leetcode]: https://leetcode.com/problems/ 
-[047-leetcode]: https://leetcode.com/problems/ 
-[048-leetcode]: https://leetcode.com/problems/ 
-[049-leetcode]: https://leetcode.com/problems/ 
-[050-leetcode]: https://leetcode.com/problems/ 
-[051-leetcode]: https://leetcode.com/problems/ 
-[052-leetcode]: https://leetcode.com/problems/ 
-[053-leetcode]: https://leetcode.com/problems/ 
-[054-leetcode]: https://leetcode.com/problems/ 
-[055-leetcode]: https://leetcode.com/problems/ 
-[056-leetcode]: https://leetcode.com/problems/ 
-[057-leetcode]: https://leetcode.com/problems/ 
-[058-leetcode]: https://leetcode.com/problems/ 
-[059-leetcode]: https://leetcode.com/problems/ 
-[060-leetcode]: https://leetcode.com/problems/ 
-[061-leetcode]: https://leetcode.com/problems/ 
-[062-leetcode]: https://leetcode.com/problems/ 
-[063-leetcode]: https://leetcode.com/problems/ 
-[064-leetcode]: https://leetcode.com/problems/ 
-[065-leetcode]: https://leetcode.com/problems/ 
-[066-leetcode]: https://leetcode.com/problems/ 
-[067-leetcode]: https://leetcode.com/problems/ 
-[068-leetcode]: https://leetcode.com/problems/ 
-[069-leetcode]: https://leetcode.com/problems/ 
-[070-leetcode]: https://leetcode.com/problems/ 
-[071-leetcode]: https://leetcode.com/problems/ 
-[072-leetcode]: https://leetcode.com/problems/ 
-[073-leetcode]: https://leetcode.com/problems/ 
-[074-leetcode]: https://leetcode.com/problems/ 
-[075-leetcode]: https://leetcode.com/problems/ 
-[076-leetcode]: https://leetcode.com/problems/ 
-[077-leetcode]: https://leetcode.com/problems/ 
-[078-leetcode]: https://leetcode.com/problems/ 
-[079-leetcode]: https://leetcode.com/problems/ 
-[080-leetcode]: https://leetcode.com/problems/ 
-[081-leetcode]: https://leetcode.com/problems/ 
-[082-leetcode]: https://leetcode.com/problems/ 
-[083-leetcode]: https://leetcode.com/problems/ 
-[084-leetcode]: https://leetcode.com/problems/ 
-[085-leetcode]: https://leetcode.com/problems/ 
-[086-leetcode]: https://leetcode.com/problems/ 
-[087-leetcode]: https://leetcode.com/problems/ 
-[088-leetcode]: https://leetcode.com/problems/ 
-[089-leetcode]: https://leetcode.com/problems/ 
-[090-leetcode]: https://leetcode.com/problems/ 
-[091-leetcode]: https://leetcode.com/problems/ 
-[092-leetcode]: https://leetcode.com/problems/ 
-[093-leetcode]: https://leetcode.com/problems/ 
-[094-leetcode]: https://leetcode.com/problems/ 
-[095-leetcode]: https://leetcode.com/problems/ 
-[096-leetcode]: https://leetcode.com/problems/ 
-[097-leetcode]: https://leetcode.com/problems/ 
-[098-leetcode]: https://leetcode.com/problems/ 
-[099-leetcode]: https://leetcode.com/problems/ 
-[100-leetcode]: https://leetcode.com/problems/ 
-[101-leetcode]: https://leetcode.com/problems/ 
-[102-leetcode]: https://leetcode.com/problems/ 
-[103-leetcode]: https://leetcode.com/problems/ 
-[104-leetcode]: https://leetcode.com/problems/ 
-[105-leetcode]: https://leetcode.com/problems/ 
-[106-leetcode]: https://leetcode.com/problems/ 
-[107-leetcode]: https://leetcode.com/problems/ 
-[108-leetcode]: https://leetcode.com/problems/ 
-[109-leetcode]: https://leetcode.com/problems/ 
-[110-leetcode]: https://leetcode.com/problems/ 
-[111-leetcode]: https://leetcode.com/problems/ 
-[112-leetcode]: https://leetcode.com/problems/ 
-[113-leetcode]: https://leetcode.com/problems/ 
-[114-leetcode]: https://leetcode.com/problems/ 
-[115-leetcode]: https://leetcode.com/problems/ 
-[116-leetcode]: https://leetcode.com/problems/ 
-[117-leetcode]: https://leetcode.com/problems/ 
-[118-leetcode]: https://leetcode.com/problems/ 
-[119-leetcode]: https://leetcode.com/problems/ 
-[120-leetcode]: https://leetcode.com/problems/ 
-[121-leetcode]: https://leetcode.com/problems/ 
-[122-leetcode]: https://leetcode.com/problems/ 
-[123-leetcode]: https://leetcode.com/problems/ 
-[124-leetcode]: https://leetcode.com/problems/ 
-[125-leetcode]: https://leetcode.com/problems/ 
-[126-leetcode]: https://leetcode.com/problems/ 
-[127-leetcode]: https://leetcode.com/problems/ 
-[128-leetcode]: https://leetcode.com/problems/ 
-[129-leetcode]: https://leetcode.com/problems/ 
-[130-leetcode]: https://leetcode.com/problems/ 
-[131-leetcode]: https://leetcode.com/problems/ 
-[132-leetcode]: https://leetcode.com/problems/ 
-[133-leetcode]: https://leetcode.com/problems/ 
-[134-leetcode]: https://leetcode.com/problems/ 
-[135-leetcode]: https://leetcode.com/problems/ 
-[136-leetcode]: https://leetcode.com/problems/ 
-[137-leetcode]: https://leetcode.com/problems/ 
-[138-leetcode]: https://leetcode.com/problems/ 
-[139-leetcode]: https://leetcode.com/problems/ 
-[140-leetcode]: https://leetcode.com/problems/ 
-[141-leetcode]: https://leetcode.com/problems/ 
-[142-leetcode]: https://leetcode.com/problems/ 
-[143-leetcode]: https://leetcode.com/problems/ 
-[144-leetcode]: https://leetcode.com/problems/ 
-[145-leetcode]: https://leetcode.com/problems/ 
-[146-leetcode]: https://leetcode.com/problems/ 
-[147-leetcode]: https://leetcode.com/problems/ 
-[148-leetcode]: https://leetcode.com/problems/ 
-[149-leetcode]: https://leetcode.com/problems/ 
-[150-leetcode]: https://leetcode.com/problems/ 
-[151-leetcode]: https://leetcode.com/problems/ 
-[152-leetcode]: https://leetcode.com/problems/ 
-[153-leetcode]: https://leetcode.com/problems/ 
-[154-leetcode]: https://leetcode.com/problems/ 
-[155-leetcode]: https://leetcode.com/problems/ 
-[156-leetcode]: https://leetcode.com/problems/ 
-[157-leetcode]: https://leetcode.com/problems/ 
-[158-leetcode]: https://leetcode.com/problems/ 
-[159-leetcode]: https://leetcode.com/problems/ 
-[160-leetcode]: https://leetcode.com/problems/ 
-[161-leetcode]: https://leetcode.com/problems/ 
-[162-leetcode]: https://leetcode.com/problems/ 
-[163-leetcode]: https://leetcode.com/problems/ 
-[164-leetcode]: https://leetcode.com/problems/ 
-[165-leetcode]: https://leetcode.com/problems/ 
-[166-leetcode]: https://leetcode.com/problems/ 
-[167-leetcode]: https://leetcode.com/problems/ 
-[168-leetcode]: https://leetcode.com/problems/ 
-[169-leetcode]: https://leetcode.com/problems/ 
-[170-leetcode]: https://leetcode.com/problems/ 
-[171-leetcode]: https://leetcode.com/problems/ 
-[172-leetcode]: https://leetcode.com/problems/ 
-[173-leetcode]: https://leetcode.com/problems/ 
-[174-leetcode]: https://leetcode.com/problems/ 
-[175-leetcode]: https://leetcode.com/problems/ 
-[176-leetcode]: https://leetcode.com/problems/ 
-[177-leetcode]: https://leetcode.com/problems/ 
-[178-leetcode]: https://leetcode.com/problems/ 
-[179-leetcode]: https://leetcode.com/problems/ 
-[180-leetcode]: https://leetcode.com/problems/ 
-[181-leetcode]: https://leetcode.com/problems/ 
-[182-leetcode]: https://leetcode.com/problems/ 
-[183-leetcode]: https://leetcode.com/problems/ 
-[184-leetcode]: https://leetcode.com/problems/ 
-[185-leetcode]: https://leetcode.com/problems/ 
-[186-leetcode]: https://leetcode.com/problems/ 
-[187-leetcode]: https://leetcode.com/problems/ 
-[188-leetcode]: https://leetcode.com/problems/ 
-[189-leetcode]: https://leetcode.com/problems/ 
-[190-leetcode]: https://leetcode.com/problems/ 
-[191-leetcode]: https://leetcode.com/problems/ 
-[192-leetcode]: https://leetcode.com/problems/ 
-[193-leetcode]: https://leetcode.com/problems/ 
-[194-leetcode]: https://leetcode.com/problems/ 
-[195-leetcode]: https://leetcode.com/problems/ 
-[196-leetcode]: https://leetcode.com/problems/ 
-[197-leetcode]: https://leetcode.com/problems/ 
-[198-leetcode]: https://leetcode.com/problems/ 
-[199-leetcode]: https://leetcode.com/problems/ 
-[200-leetcode]: https://leetcode.com/problems/ 
-[201-leetcode]: https://leetcode.com/problems/ 
-[202-leetcode]: https://leetcode.com/problems/ 
-[203-leetcode]: https://leetcode.com/problems/ 
-[204-leetcode]: https://leetcode.com/problems/ 
-[205-leetcode]: https://leetcode.com/problems/ 
-[206-leetcode]: https://leetcode.com/problems/ 
-[207-leetcode]: https://leetcode.com/problems/ 
-[208-leetcode]: https://leetcode.com/problems/ 
-[209-leetcode]: https://leetcode.com/problems/ 
-[210-leetcode]: https://leetcode.com/problems/ 
-[211-leetcode]: https://leetcode.com/problems/ 
-[212-leetcode]: https://leetcode.com/problems/ 
-[213-leetcode]: https://leetcode.com/problems/ 
-[214-leetcode]: https://leetcode.com/problems/ 
-[215-leetcode]: https://leetcode.com/problems/ 
-[216-leetcode]: https://leetcode.com/problems/ 
-[217-leetcode]: https://leetcode.com/problems/ 
-[218-leetcode]: https://leetcode.com/problems/ 
-[219-leetcode]: https://leetcode.com/problems/ 
-[220-leetcode]: https://leetcode.com/problems/ 
-[221-leetcode]: https://leetcode.com/problems/ 
-[222-leetcode]: https://leetcode.com/problems/ 
-[223-leetcode]: https://leetcode.com/problems/ 
-[224-leetcode]: https://leetcode.com/problems/ 
-[225-leetcode]: https://leetcode.com/problems/ 
-[226-leetcode]: https://leetcode.com/problems/ 
-[227-leetcode]: https://leetcode.com/problems/ 
-[228-leetcode]: https://leetcode.com/problems/ 
-[229-leetcode]: https://leetcode.com/problems/ 
-[230-leetcode]: https://leetcode.com/problems/ 
-[231-leetcode]: https://leetcode.com/problems/ 
-[232-leetcode]: https://leetcode.com/problems/ 
-[233-leetcode]: https://leetcode.com/problems/ 
-[234-leetcode]: https://leetcode.com/problems/ 
-[235-leetcode]: https://leetcode.com/problems/ 
-[236-leetcode]: https://leetcode.com/problems/ 
-[237-leetcode]: https://leetcode.com/problems/ 
-[238-leetcode]: https://leetcode.com/problems/ 
-[239-leetcode]: https://leetcode.com/problems/ 
-[240-leetcode]: https://leetcode.com/problems/ 
-[241-leetcode]: https://leetcode.com/problems/ 
-[242-leetcode]: https://leetcode.com/problems/ 
-[243-leetcode]: https://leetcode.com/problems/ 
-[244-leetcode]: https://leetcode.com/problems/ 
-[245-leetcode]: https://leetcode.com/problems/ 
-[246-leetcode]: https://leetcode.com/problems/ 
-[247-leetcode]: https://leetcode.com/problems/ 
-[248-leetcode]: https://leetcode.com/problems/ 
-[249-leetcode]: https://leetcode.com/problems/ 
-[250-leetcode]: https://leetcode.com/problems/ 
-[251-leetcode]: https://leetcode.com/problems/ 
-[252-leetcode]: https://leetcode.com/problems/ 
-[253-leetcode]: https://leetcode.com/problems/ 
-[254-leetcode]: https://leetcode.com/problems/ 
-[255-leetcode]: https://leetcode.com/problems/ 
-[256-leetcode]: https://leetcode.com/problems/ 
-[257-leetcode]: https://leetcode.com/problems/ 
-[258-leetcode]: https://leetcode.com/problems/ 
-[259-leetcode]: https://leetcode.com/problems/ 
-[260-leetcode]: https://leetcode.com/problems/ 
-[261-leetcode]: https://leetcode.com/problems/ 
-[262-leetcode]: https://leetcode.com/problems/ 
-[263-leetcode]: https://leetcode.com/problems/ 
-[264-leetcode]: https://leetcode.com/problems/ 
-[265-leetcode]: https://leetcode.com/problems/ 
-[266-leetcode]: https://leetcode.com/problems/ 
-[267-leetcode]: https://leetcode.com/problems/ 
-[268-leetcode]: https://leetcode.com/problems/ 
-[269-leetcode]: https://leetcode.com/problems/ 
-[270-leetcode]: https://leetcode.com/problems/ 
-[271-leetcode]: https://leetcode.com/problems/ 
-[272-leetcode]: https://leetcode.com/problems/ 
-[273-leetcode]: https://leetcode.com/problems/ 
-[274-leetcode]: https://leetcode.com/problems/ 
-[275-leetcode]: https://leetcode.com/problems/ 
-[276-leetcode]: https://leetcode.com/problems/ 
-[277-leetcode]: https://leetcode.com/problems/ 
-[278-leetcode]: https://leetcode.com/problems/ 
-[279-leetcode]: https://leetcode.com/problems/ 
-[280-leetcode]: https://leetcode.com/problems/ 
-[281-leetcode]: https://leetcode.com/problems/ 
-[282-leetcode]: https://leetcode.com/problems/ 
-[283-leetcode]: https://leetcode.com/problems/ 
-[284-leetcode]: https://leetcode.com/problems/ 
-[285-leetcode]: https://leetcode.com/problems/ 
-[286-leetcode]: https://leetcode.com/problems/ 
-[287-leetcode]: https://leetcode.com/problems/ 
-[288-leetcode]: https://leetcode.com/problems/ 
-[289-leetcode]: https://leetcode.com/problems/ 
-[290-leetcode]: https://leetcode.com/problems/ 
-[291-leetcode]: https://leetcode.com/problems/ 
-[292-leetcode]: https://leetcode.com/problems/ 
-[293-leetcode]: https://leetcode.com/problems/ 
-[294-leetcode]: https://leetcode.com/problems/ 
-[295-leetcode]: https://leetcode.com/problems/ 
-[296-leetcode]: https://leetcode.com/problems/ 
-[297-leetcode]: https://leetcode.com/problems/ 
-[298-leetcode]: https://leetcode.com/problems/ 
-[299-leetcode]: https://leetcode.com/problems/ 
-[300-leetcode]: https://leetcode.com/problems/ 
-[301-leetcode]: https://leetcode.com/problems/ 
-[302-leetcode]: https://leetcode.com/problems/ 
-[303-leetcode]: https://leetcode.com/problems/ 
-[304-leetcode]: https://leetcode.com/problems/ 
-[305-leetcode]: https://leetcode.com/problems/ 
-[306-leetcode]: https://leetcode.com/problems/ 
-[307-leetcode]: https://leetcode.com/problems/ 
-[308-leetcode]: https://leetcode.com/problems/ 
-[309-leetcode]: https://leetcode.com/problems/ 
-[310-leetcode]: https://leetcode.com/problems/ 
-[311-leetcode]: https://leetcode.com/problems/ 
-[312-leetcode]: https://leetcode.com/problems/ 
-[313-leetcode]: https://leetcode.com/problems/ 
-[314-leetcode]: https://leetcode.com/problems/ 
-[315-leetcode]: https://leetcode.com/problems/ 
-[316-leetcode]: https://leetcode.com/problems/ 
-[317-leetcode]: https://leetcode.com/problems/ 
-[318-leetcode]: https://leetcode.com/problems/ 
-[319-leetcode]: https://leetcode.com/problems/ 
-[320-leetcode]: https://leetcode.com/problems/ 
-[321-leetcode]: https://leetcode.com/problems/ 
-[322-leetcode]: https://leetcode.com/problems/ 
-[323-leetcode]: https://leetcode.com/problems/ 
-[324-leetcode]: https://leetcode.com/problems/ 
-[325-leetcode]: https://leetcode.com/problems/ 
-[326-leetcode]: https://leetcode.com/problems/ 
-[327-leetcode]: https://leetcode.com/problems/ 
-[328-leetcode]: https://leetcode.com/problems/ 
-[329-leetcode]: https://leetcode.com/problems/ 
-[330-leetcode]: https://leetcode.com/problems/ 
-[331-leetcode]: https://leetcode.com/problems/ 
-[332-leetcode]: https://leetcode.com/problems/ 
-[333-leetcode]: https://leetcode.com/problems/ 
-[334-leetcode]: https://leetcode.com/problems/ 
-[335-leetcode]: https://leetcode.com/problems/ 
-[336-leetcode]: https://leetcode.com/problems/ 
-[337-leetcode]: https://leetcode.com/problems/ 
-[338-leetcode]: https://leetcode.com/problems/ 
-[339-leetcode]: https://leetcode.com/problems/ 
-[340-leetcode]: https://leetcode.com/problems/ 
-[341-leetcode]: https://leetcode.com/problems/ 
-[342-leetcode]: https://leetcode.com/problems/ 
-[343-leetcode]: https://leetcode.com/problems/ 
-[344-leetcode]: https://leetcode.com/problems/ 
-[345-leetcode]: https://leetcode.com/problems/ 
-[346-leetcode]: https://leetcode.com/problems/ 
-[347-leetcode]: https://leetcode.com/problems/ 
-[348-leetcode]: https://leetcode.com/problems/ 
-[349-leetcode]: https://leetcode.com/problems/ 
-[350-leetcode]: https://leetcode.com/problems/ 
-[351-leetcode]: https://leetcode.com/problems/ 
-[352-leetcode]: https://leetcode.com/problems/ 
-[353-leetcode]: https://leetcode.com/problems/ 
-[354-leetcode]: https://leetcode.com/problems/ 
-[355-leetcode]: https://leetcode.com/problems/ 
-[356-leetcode]: https://leetcode.com/problems/ 
-[357-leetcode]: https://leetcode.com/problems/ 
-[358-leetcode]: https://leetcode.com/problems/ 
-[359-leetcode]: https://leetcode.com/problems/ 
-[360-leetcode]: https://leetcode.com/problems/ 
-[361-leetcode]: https://leetcode.com/problems/ 
-[362-leetcode]: https://leetcode.com/problems/ 
-[363-leetcode]: https://leetcode.com/problems/ 
-[364-leetcode]: https://leetcode.com/problems/ 
-[365-leetcode]: https://leetcode.com/problems/ 
-[366-leetcode]: https://leetcode.com/problems/ 
-[367-leetcode]: https://leetcode.com/problems/ 
-[368-leetcode]: https://leetcode.com/problems/ 
-[369-leetcode]: https://leetcode.com/problems/ 
-[370-leetcode]: https://leetcode.com/problems/ 
-[371-leetcode]: https://leetcode.com/problems/ 
-[372-leetcode]: https://leetcode.com/problems/ 
-[373-leetcode]: https://leetcode.com/problems/ 
-[374-leetcode]: https://leetcode.com/problems/ 
-[375-leetcode]: https://leetcode.com/problems/ 
-[376-leetcode]: https://leetcode.com/problems/ 
-[377-leetcode]: https://leetcode.com/problems/ 
-[378-leetcode]: https://leetcode.com/problems/ 
-[379-leetcode]: https://leetcode.com/problems/ 
-[380-leetcode]: https://leetcode.com/problems/ 
-[381-leetcode]: https://leetcode.com/problems/ 
-[382-leetcode]: https://leetcode.com/problems/ 
-[383-leetcode]: https://leetcode.com/problems/ 
-[384-leetcode]: https://leetcode.com/problems/ 
-[385-leetcode]: https://leetcode.com/problems/ 
-[386-leetcode]: https://leetcode.com/problems/ 
-[387-leetcode]: https://leetcode.com/problems/ 
-[388-leetcode]: https://leetcode.com/problems/ 
-[389-leetcode]: https://leetcode.com/problems/ 
-[390-leetcode]: https://leetcode.com/problems/ 
-[391-leetcode]: https://leetcode.com/problems/ 
-[392-leetcode]: https://leetcode.com/problems/ 
-[393-leetcode]: https://leetcode.com/problems/ 
-[394-leetcode]: https://leetcode.com/problems/ 
-[395-leetcode]: https://leetcode.com/problems/ 
-[396-leetcode]: https://leetcode.com/problems/ 
-[397-leetcode]: https://leetcode.com/problems/ 
-[398-leetcode]: https://leetcode.com/problems/ 
-[399-leetcode]: https://leetcode.com/problems/ 
-[400-leetcode]: https://leetcode.com/problems/ 
-[401-leetcode]: https://leetcode.com/problems/ 
-[402-leetcode]: https://leetcode.com/problems/ 
-[403-leetcode]: https://leetcode.com/problems/ 
-[404-leetcode]: https://leetcode.com/problems/ 
-[405-leetcode]: https://leetcode.com/problems/ 
-[406-leetcode]: https://leetcode.com/problems/ 
-[407-leetcode]: https://leetcode.com/problems/ 
-[408-leetcode]: https://leetcode.com/problems/ 
-[409-leetcode]: https://leetcode.com/problems/ 
-[410-leetcode]: https://leetcode.com/problems/ 
-[411-leetcode]: https://leetcode.com/problems/ 
-[412-leetcode]: https://leetcode.com/problems/ 
-[413-leetcode]: https://leetcode.com/problems/ 
-[414-leetcode]: https://leetcode.com/problems/ 
-[415-leetcode]: https://leetcode.com/problems/ 
-[416-leetcode]: https://leetcode.com/problems/ 
-[417-leetcode]: https://leetcode.com/problems/ 
-[418-leetcode]: https://leetcode.com/problems/ 
-[419-leetcode]: https://leetcode.com/problems/ 
-[420-leetcode]: https://leetcode.com/problems/ 
-[421-leetcode]: https://leetcode.com/problems/ 
-[422-leetcode]: https://leetcode.com/problems/ 
-[423-leetcode]: https://leetcode.com/problems/ 
-[424-leetcode]: https://leetcode.com/problems/ 
-[425-leetcode]: https://leetcode.com/problems/ 
-[426-leetcode]: https://leetcode.com/problems/ 
-[427-leetcode]: https://leetcode.com/problems/ 
-[428-leetcode]: https://leetcode.com/problems/ 
-[429-leetcode]: https://leetcode.com/problems/ 
-[430-leetcode]: https://leetcode.com/problems/ 
-[431-leetcode]: https://leetcode.com/problems/ 
-[432-leetcode]: https://leetcode.com/problems/ 
-[433-leetcode]: https://leetcode.com/problems/ 
-[434-leetcode]: https://leetcode.com/problems/ 
-[435-leetcode]: https://leetcode.com/problems/ 
-[436-leetcode]: https://leetcode.com/problems/ 
-[437-leetcode]: https://leetcode.com/problems/ 
-[438-leetcode]: https://leetcode.com/problems/ 
-[439-leetcode]: https://leetcode.com/problems/ 
-[440-leetcode]: https://leetcode.com/problems/ 
-[441-leetcode]: https://leetcode.com/problems/ 
-[442-leetcode]: https://leetcode.com/problems/ 
-[443-leetcode]: https://leetcode.com/problems/ 
-[444-leetcode]: https://leetcode.com/problems/ 
-[445-leetcode]: https://leetcode.com/problems/ 
-[446-leetcode]: https://leetcode.com/problems/ 
-[447-leetcode]: https://leetcode.com/problems/ 
-[448-leetcode]: https://leetcode.com/problems/ 
-[449-leetcode]: https://leetcode.com/problems/ 
-[450-leetcode]: https://leetcode.com/problems/ 
-[451-leetcode]: https://leetcode.com/problems/ 
-[452-leetcode]: https://leetcode.com/problems/ 
-[453-leetcode]: https://leetcode.com/problems/ 
-[454-leetcode]: https://leetcode.com/problems/ 
-[455-leetcode]: https://leetcode.com/problems/ 
-[456-leetcode]: https://leetcode.com/problems/ 
-[457-leetcode]: https://leetcode.com/problems/ 
-[458-leetcode]: https://leetcode.com/problems/ 
-[459-leetcode]: https://leetcode.com/problems/ 
-[460-leetcode]: https://leetcode.com/problems/ 
-[461-leetcode]: https://leetcode.com/problems/ 
-[462-leetcode]: https://leetcode.com/problems/ 
-[463-leetcode]: https://leetcode.com/problems/ 
-[464-leetcode]: https://leetcode.com/problems/ 
-[465-leetcode]: https://leetcode.com/problems/ 
-[466-leetcode]: https://leetcode.com/problems/ 
-[467-leetcode]: https://leetcode.com/problems/ 
-[468-leetcode]: https://leetcode.com/problems/ 
-[469-leetcode]: https://leetcode.com/problems/ 
-[470-leetcode]: https://leetcode.com/problems/ 
-[471-leetcode]: https://leetcode.com/problems/ 
-[472-leetcode]: https://leetcode.com/problems/ 
-[473-leetcode]: https://leetcode.com/problems/ 
-[474-leetcode]: https://leetcode.com/problems/ 
-[475-leetcode]: https://leetcode.com/problems/ 
-[476-leetcode]: https://leetcode.com/problems/ 
-[477-leetcode]: https://leetcode.com/problems/ 
-[478-leetcode]: https://leetcode.com/problems/ 
-[479-leetcode]: https://leetcode.com/problems/ 
-[480-leetcode]: https://leetcode.com/problems/ 
-[481-leetcode]: https://leetcode.com/problems/ 
-[482-leetcode]: https://leetcode.com/problems/ 
-[483-leetcode]: https://leetcode.com/problems/ 
-[484-leetcode]: https://leetcode.com/problems/ 
-[485-leetcode]: https://leetcode.com/problems/ 
-[486-leetcode]: https://leetcode.com/problems/ 
-[487-leetcode]: https://leetcode.com/problems/ 
-[488-leetcode]: https://leetcode.com/problems/ 
-[489-leetcode]: https://leetcode.com/problems/ 
-[490-leetcode]: https://leetcode.com/problems/ 
-[491-leetcode]: https://leetcode.com/problems/ 
-[492-leetcode]: https://leetcode.com/problems/ 
-[493-leetcode]: https://leetcode.com/problems/ 
-[494-leetcode]: https://leetcode.com/problems/ 
-[495-leetcode]: https://leetcode.com/problems/ 
-[496-leetcode]: https://leetcode.com/problems/ 
-[497-leetcode]: https://leetcode.com/problems/ 
-[498-leetcode]: https://leetcode.com/problems/ 
-[499-leetcode]: https://leetcode.com/problems/ 
-[500-leetcode]: https://leetcode.com/problems/ 
-[501-leetcode]: https://leetcode.com/problems/ 
-[502-leetcode]: https://leetcode.com/problems/ 
-[503-leetcode]: https://leetcode.com/problems/ 
-[504-leetcode]: https://leetcode.com/problems/ 
-[505-leetcode]: https://leetcode.com/problems/ 
-[506-leetcode]: https://leetcode.com/problems/ 
-[507-leetcode]: https://leetcode.com/problems/ 
-[508-leetcode]: https://leetcode.com/problems/ 
-[509-leetcode]: https://leetcode.com/problems/ 
-[510-leetcode]: https://leetcode.com/problems/ 
-[511-leetcode]: https://leetcode.com/problems/ 
-[512-leetcode]: https://leetcode.com/problems/ 
-[513-leetcode]: https://leetcode.com/problems/ 
-[514-leetcode]: https://leetcode.com/problems/ 
-[515-leetcode]: https://leetcode.com/problems/ 
-[516-leetcode]: https://leetcode.com/problems/ 
-[517-leetcode]: https://leetcode.com/problems/ 
-[518-leetcode]: https://leetcode.com/problems/ 
-[519-leetcode]: https://leetcode.com/problems/ 
-[520-leetcode]: https://leetcode.com/problems/ 
-[521-leetcode]: https://leetcode.com/problems/ 
-[522-leetcode]: https://leetcode.com/problems/ 
-[523-leetcode]: https://leetcode.com/problems/ 
-[524-leetcode]: https://leetcode.com/problems/ 
-[525-leetcode]: https://leetcode.com/problems/ 
-[526-leetcode]: https://leetcode.com/problems/ 
-[527-leetcode]: https://leetcode.com/problems/ 
-[528-leetcode]: https://leetcode.com/problems/ 
-[529-leetcode]: https://leetcode.com/problems/ 
-[530-leetcode]: https://leetcode.com/problems/ 
-[531-leetcode]: https://leetcode.com/problems/ 
-[532-leetcode]: https://leetcode.com/problems/ 
-[533-leetcode]: https://leetcode.com/problems/ 
-[534-leetcode]: https://leetcode.com/problems/ 
-[535-leetcode]: https://leetcode.com/problems/ 
-[536-leetcode]: https://leetcode.com/problems/ 
-[537-leetcode]: https://leetcode.com/problems/ 
-[538-leetcode]: https://leetcode.com/problems/ 
-[539-leetcode]: https://leetcode.com/problems/ 
-[540-leetcode]: https://leetcode.com/problems/ 
-[541-leetcode]: https://leetcode.com/problems/ 
-[542-leetcode]: https://leetcode.com/problems/ 
-[543-leetcode]: https://leetcode.com/problems/ 
-[544-leetcode]: https://leetcode.com/problems/ 
-[545-leetcode]: https://leetcode.com/problems/ 
-[546-leetcode]: https://leetcode.com/problems/ 
-[547-leetcode]: https://leetcode.com/problems/ 
-[548-leetcode]: https://leetcode.com/problems/ 
-[549-leetcode]: https://leetcode.com/problems/ 
-[550-leetcode]: https://leetcode.com/problems/ 
-[551-leetcode]: https://leetcode.com/problems/ 
-[552-leetcode]: https://leetcode.com/problems/ 
-[553-leetcode]: https://leetcode.com/problems/ 
-[554-leetcode]: https://leetcode.com/problems/ 
-[555-leetcode]: https://leetcode.com/problems/ 
-[556-leetcode]: https://leetcode.com/problems/ 
-[557-leetcode]: https://leetcode.com/problems/ 
-[558-leetcode]: https://leetcode.com/problems/ 
-[559-leetcode]: https://leetcode.com/problems/ 
-[560-leetcode]: https://leetcode.com/problems/ 
-[561-leetcode]: https://leetcode.com/problems/ 
-[562-leetcode]: https://leetcode.com/problems/ 
-[563-leetcode]: https://leetcode.com/problems/ 
-[564-leetcode]: https://leetcode.com/problems/ 
-[565-leetcode]: https://leetcode.com/problems/ 
-[566-leetcode]: https://leetcode.com/problems/ 
-[567-leetcode]: https://leetcode.com/problems/ 
-[568-leetcode]: https://leetcode.com/problems/ 
-[569-leetcode]: https://leetcode.com/problems/ 
-[570-leetcode]: https://leetcode.com/problems/ 
-[571-leetcode]: https://leetcode.com/problems/ 
-[572-leetcode]: https://leetcode.com/problems/ 
-[573-leetcode]: https://leetcode.com/problems/ 
-[574-leetcode]: https://leetcode.com/problems/ 
-[575-leetcode]: https://leetcode.com/problems/ 
-[576-leetcode]: https://leetcode.com/problems/ 
-[577-leetcode]: https://leetcode.com/problems/ 
-[578-leetcode]: https://leetcode.com/problems/ 
-[579-leetcode]: https://leetcode.com/problems/ 
-[580-leetcode]: https://leetcode.com/problems/ 
-[581-leetcode]: https://leetcode.com/problems/ 
-[582-leetcode]: https://leetcode.com/problems/ 
-[583-leetcode]: https://leetcode.com/problems/ 
-[584-leetcode]: https://leetcode.com/problems/ 
-[585-leetcode]: https://leetcode.com/problems/ 
-[586-leetcode]: https://leetcode.com/problems/ 
-[587-leetcode]: https://leetcode.com/problems/ 
-[588-leetcode]: https://leetcode.com/problems/ 
-[589-leetcode]: https://leetcode.com/problems/ 
-[590-leetcode]: https://leetcode.com/problems/ 
-[591-leetcode]: https://leetcode.com/problems/ 
-[592-leetcode]: https://leetcode.com/problems/ 
-[593-leetcode]: https://leetcode.com/problems/ 
-[594-leetcode]: https://leetcode.com/problems/ 
-[595-leetcode]: https://leetcode.com/problems/ 
-[596-leetcode]: https://leetcode.com/problems/ 
-[597-leetcode]: https://leetcode.com/problems/ 
-[598-leetcode]: https://leetcode.com/problems/ 
-[599-leetcode]: https://leetcode.com/problems/ 
-[600-leetcode]: https://leetcode.com/problems/ 
-[601-leetcode]: https://leetcode.com/problems/ 
-[602-leetcode]: https://leetcode.com/problems/ 
-[603-leetcode]: https://leetcode.com/problems/ 
-[604-leetcode]: https://leetcode.com/problems/ 
-[605-leetcode]: https://leetcode.com/problems/ 
-[606-leetcode]: https://leetcode.com/problems/ 
-[607-leetcode]: https://leetcode.com/problems/ 
-[608-leetcode]: https://leetcode.com/problems/ 
-[609-leetcode]: https://leetcode.com/problems/ 
-[610-leetcode]: https://leetcode.com/problems/ 
-[611-leetcode]: https://leetcode.com/problems/ 
-[612-leetcode]: https://leetcode.com/problems/ 
-[613-leetcode]: https://leetcode.com/problems/ 
-[614-leetcode]: https://leetcode.com/problems/ 
-[615-leetcode]: https://leetcode.com/problems/ 
-[616-leetcode]: https://leetcode.com/problems/ 
-[617-leetcode]: https://leetcode.com/problems/ 
-[618-leetcode]: https://leetcode.com/problems/ 
-[619-leetcode]: https://leetcode.com/problems/ 
-[620-leetcode]: https://leetcode.com/problems/ 
-[621-leetcode]: https://leetcode.com/problems/ 
-[622-leetcode]: https://leetcode.com/problems/ 
-[623-leetcode]: https://leetcode.com/problems/ 
-[624-leetcode]: https://leetcode.com/problems/ 
-[625-leetcode]: https://leetcode.com/problems/ 
-[626-leetcode]: https://leetcode.com/problems/ 
-[627-leetcode]: https://leetcode.com/problems/ 
-[628-leetcode]: https://leetcode.com/problems/ 
-[629-leetcode]: https://leetcode.com/problems/ 
-[630-leetcode]: https://leetcode.com/problems/ 
-[631-leetcode]: https://leetcode.com/problems/ 
-[632-leetcode]: https://leetcode.com/problems/ 
-[633-leetcode]: https://leetcode.com/problems/ 
-[634-leetcode]: https://leetcode.com/problems/ 
-[635-leetcode]: https://leetcode.com/problems/ 
-[636-leetcode]: https://leetcode.com/problems/ 
-[637-leetcode]: https://leetcode.com/problems/ 
-[638-leetcode]: https://leetcode.com/problems/ 
-[639-leetcode]: https://leetcode.com/problems/ 
-[640-leetcode]: https://leetcode.com/problems/ 
-[641-leetcode]: https://leetcode.com/problems/ 
-[642-leetcode]: https://leetcode.com/problems/ 
-[643-leetcode]: https://leetcode.com/problems/ 
-[644-leetcode]: https://leetcode.com/problems/ 
-[645-leetcode]: https://leetcode.com/problems/ 
-[646-leetcode]: https://leetcode.com/problems/ 
-[647-leetcode]: https://leetcode.com/problems/ 
-[648-leetcode]: https://leetcode.com/problems/ 
-[649-leetcode]: https://leetcode.com/problems/ 
-[650-leetcode]: https://leetcode.com/problems/ 
-[651-leetcode]: https://leetcode.com/problems/ 
-[652-leetcode]: https://leetcode.com/problems/ 
-[653-leetcode]: https://leetcode.com/problems/ 
-[654-leetcode]: https://leetcode.com/problems/ 
-[655-leetcode]: https://leetcode.com/problems/ 
-[656-leetcode]: https://leetcode.com/problems/ 
-[657-leetcode]: https://leetcode.com/problems/ 
-[658-leetcode]: https://leetcode.com/problems/ 
-[659-leetcode]: https://leetcode.com/problems/ 
-[660-leetcode]: https://leetcode.com/problems/ 
-[661-leetcode]: https://leetcode.com/problems/ 
-[662-leetcode]: https://leetcode.com/problems/ 
-[663-leetcode]: https://leetcode.com/problems/ 
-[664-leetcode]: https://leetcode.com/problems/ 
-[665-leetcode]: https://leetcode.com/problems/ 
-[666-leetcode]: https://leetcode.com/problems/ 
-[667-leetcode]: https://leetcode.com/problems/ 
-[668-leetcode]: https://leetcode.com/problems/ 
-[669-leetcode]: https://leetcode.com/problems/ 
-[670-leetcode]: https://leetcode.com/problems/ 
-[671-leetcode]: https://leetcode.com/problems/ 
-[672-leetcode]: https://leetcode.com/problems/ 
-[673-leetcode]: https://leetcode.com/problems/ 
-[674-leetcode]: https://leetcode.com/problems/ 
-[675-leetcode]: https://leetcode.com/problems/ 
-[676-leetcode]: https://leetcode.com/problems/ 
-[677-leetcode]: https://leetcode.com/problems/ 
-[678-leetcode]: https://leetcode.com/problems/ 
-[679-leetcode]: https://leetcode.com/problems/ 
-[680-leetcode]: https://leetcode.com/problems/ 
-[681-leetcode]: https://leetcode.com/problems/ 
-[682-leetcode]: https://leetcode.com/problems/ 
-[683-leetcode]: https://leetcode.com/problems/ 
-[684-leetcode]: https://leetcode.com/problems/ 
-[685-leetcode]: https://leetcode.com/problems/ 
-[686-leetcode]: https://leetcode.com/problems/ 
-[687-leetcode]: https://leetcode.com/problems/ 
-[688-leetcode]: https://leetcode.com/problems/ 
-[689-leetcode]: https://leetcode.com/problems/ 
-[690-leetcode]: https://leetcode.com/problems/ 
-[691-leetcode]: https://leetcode.com/problems/ 
-[692-leetcode]: https://leetcode.com/problems/ 
-[693-leetcode]: https://leetcode.com/problems/ 
-[694-leetcode]: https://leetcode.com/problems/ 
-[695-leetcode]: https://leetcode.com/problems/ 
-[696-leetcode]: https://leetcode.com/problems/ 
-[697-leetcode]: https://leetcode.com/problems/ 
-[698-leetcode]: https://leetcode.com/problems/ 
-[699-leetcode]: https://leetcode.com/problems/ 
-[700-leetcode]: https://leetcode.com/problems/ 
-[701-leetcode]: https://leetcode.com/problems/ 
-[702-leetcode]: https://leetcode.com/problems/ 
-[703-leetcode]: https://leetcode.com/problems/ 
-[704-leetcode]: https://leetcode.com/problems/ 
-[705-leetcode]: https://leetcode.com/problems/ 
-[706-leetcode]: https://leetcode.com/problems/ 
-[707-leetcode]: https://leetcode.com/problems/ 
-[708-leetcode]: https://leetcode.com/problems/ 
-[709-leetcode]: https://leetcode.com/problems/ 
-[710-leetcode]: https://leetcode.com/problems/ 
-[711-leetcode]: https://leetcode.com/problems/ 
-[712-leetcode]: https://leetcode.com/problems/ 
-[713-leetcode]: https://leetcode.com/problems/ 
-[714-leetcode]: https://leetcode.com/problems/ 
-[715-leetcode]: https://leetcode.com/problems/ 
-[716-leetcode]: https://leetcode.com/problems/ 
-[717-leetcode]: https://leetcode.com/problems/ 
-[718-leetcode]: https://leetcode.com/problems/ 
-[719-leetcode]: https://leetcode.com/problems/ 
-[720-leetcode]: https://leetcode.com/problems/ 
-[721-leetcode]: https://leetcode.com/problems/ 
-[722-leetcode]: https://leetcode.com/problems/ 
-[723-leetcode]: https://leetcode.com/problems/ 
-[724-leetcode]: https://leetcode.com/problems/ 
-[725-leetcode]: https://leetcode.com/problems/ 
-[726-leetcode]: https://leetcode.com/problems/ 
-[727-leetcode]: https://leetcode.com/problems/ 
-[728-leetcode]: https://leetcode.com/problems/ 
-[729-leetcode]: https://leetcode.com/problems/ 
-[730-leetcode]: https://leetcode.com/problems/ 
-[731-leetcode]: https://leetcode.com/problems/ 
-[732-leetcode]: https://leetcode.com/problems/ 
-[733-leetcode]: https://leetcode.com/problems/ 
-[734-leetcode]: https://leetcode.com/problems/ 
-[735-leetcode]: https://leetcode.com/problems/ 
-[736-leetcode]: https://leetcode.com/problems/ 
-[737-leetcode]: https://leetcode.com/problems/ 
-[738-leetcode]: https://leetcode.com/problems/ 
-[739-leetcode]: https://leetcode.com/problems/ 
-[740-leetcode]: https://leetcode.com/problems/ 
-[741-leetcode]: https://leetcode.com/problems/ 
-[742-leetcode]: https://leetcode.com/problems/ 
-[743-leetcode]: https://leetcode.com/problems/ 
-[744-leetcode]: https://leetcode.com/problems/ 
-[745-leetcode]: https://leetcode.com/problems/ 
-[746-leetcode]: https://leetcode.com/problems/ 
-[747-leetcode]: https://leetcode.com/problems/ 
-[748-leetcode]: https://leetcode.com/problems/ 
-[749-leetcode]: https://leetcode.com/problems/ 
-[750-leetcode]: https://leetcode.com/problems/ 
-[751-leetcode]: https://leetcode.com/problems/ 
-[752-leetcode]: https://leetcode.com/problems/ 
-[753-leetcode]: https://leetcode.com/problems/ 
-[754-leetcode]: https://leetcode.com/problems/ 
-[755-leetcode]: https://leetcode.com/problems/ 
-[756-leetcode]: https://leetcode.com/problems/ 
-[757-leetcode]: https://leetcode.com/problems/ 
-[758-leetcode]: https://leetcode.com/problems/ 
-[759-leetcode]: https://leetcode.com/problems/ 
-[760-leetcode]: https://leetcode.com/problems/ 
-[761-leetcode]: https://leetcode.com/problems/ 
-[762-leetcode]: https://leetcode.com/problems/ 
-[763-leetcode]: https://leetcode.com/problems/ 
-[764-leetcode]: https://leetcode.com/problems/ 
-[765-leetcode]: https://leetcode.com/problems/ 
-[766-leetcode]: https://leetcode.com/problems/ 
-[767-leetcode]: https://leetcode.com/problems/ 
-[768-leetcode]: https://leetcode.com/problems/ 
-[769-leetcode]: https://leetcode.com/problems/ 
-[770-leetcode]: https://leetcode.com/problems/ 
-[771-leetcode]: https://leetcode.com/problems/ 
-[772-leetcode]: https://leetcode.com/problems/ 
-[773-leetcode]: https://leetcode.com/problems/ 
-[774-leetcode]: https://leetcode.com/problems/ 
-[775-leetcode]: https://leetcode.com/problems/ 
-[776-leetcode]: https://leetcode.com/problems/ 
-[777-leetcode]: https://leetcode.com/problems/ 
-[778-leetcode]: https://leetcode.com/problems/ 
-[779-leetcode]: https://leetcode.com/problems/ 
-[780-leetcode]: https://leetcode.com/problems/ 
-[781-leetcode]: https://leetcode.com/problems/ 
-[782-leetcode]: https://leetcode.com/problems/ 
-[783-leetcode]: https://leetcode.com/problems/ 
-[784-leetcode]: https://leetcode.com/problems/ 
-[785-leetcode]: https://leetcode.com/problems/ 
-[786-leetcode]: https://leetcode.com/problems/ 
-[787-leetcode]: https://leetcode.com/problems/ 
-[788-leetcode]: https://leetcode.com/problems/ 
-[789-leetcode]: https://leetcode.com/problems/ 
-[790-leetcode]: https://leetcode.com/problems/ 
-[791-leetcode]: https://leetcode.com/problems/ 
-[792-leetcode]: https://leetcode.com/problems/ 
-[793-leetcode]: https://leetcode.com/problems/ 
-[794-leetcode]: https://leetcode.com/problems/ 
-[795-leetcode]: https://leetcode.com/problems/ 
-[796-leetcode]: https://leetcode.com/problems/ 
-[797-leetcode]: https://leetcode.com/problems/ 
-[798-leetcode]: https://leetcode.com/problems/ 
-[799-leetcode]: https://leetcode.com/problems/ 
-[800-leetcode]: https://leetcode.com/problems/ 
-[801-leetcode]: https://leetcode.com/problems/ 
-[802-leetcode]: https://leetcode.com/problems/ 
-[803-leetcode]: https://leetcode.com/problems/ 
-[804-leetcode]: https://leetcode.com/problems/ 
-[805-leetcode]: https://leetcode.com/problems/ 
-[806-leetcode]: https://leetcode.com/problems/ 
-[807-leetcode]: https://leetcode.com/problems/ 
-[808-leetcode]: https://leetcode.com/problems/ 
-[809-leetcode]: https://leetcode.com/problems/ 
-[810-leetcode]: https://leetcode.com/problems/ 
-[811-leetcode]: https://leetcode.com/problems/ 
-[812-leetcode]: https://leetcode.com/problems/ 
-[813-leetcode]: https://leetcode.com/problems/ 
-[814-leetcode]: https://leetcode.com/problems/ 
-[815-leetcode]: https://leetcode.com/problems/ 
-[816-leetcode]: https://leetcode.com/problems/ 
-[817-leetcode]: https://leetcode.com/problems/ 
-[818-leetcode]: https://leetcode.com/problems/ 
-[819-leetcode]: https://leetcode.com/problems/ 
-[820-leetcode]: https://leetcode.com/problems/ 
-[821-leetcode]: https://leetcode.com/problems/ 
-[822-leetcode]: https://leetcode.com/problems/ 
-[823-leetcode]: https://leetcode.com/problems/ 
-[824-leetcode]: https://leetcode.com/problems/ 
-[825-leetcode]: https://leetcode.com/problems/ 
-[826-leetcode]: https://leetcode.com/problems/ 
-[827-leetcode]: https://leetcode.com/problems/ 
-[828-leetcode]: https://leetcode.com/problems/ 
-[829-leetcode]: https://leetcode.com/problems/ 
-[830-leetcode]: https://leetcode.com/problems/ 
-[831-leetcode]: https://leetcode.com/problems/ 
-[832-leetcode]: https://leetcode.com/problems/ 
-[833-leetcode]: https://leetcode.com/problems/ 
-[834-leetcode]: https://leetcode.com/problems/ 
-[835-leetcode]: https://leetcode.com/problems/ 
-[836-leetcode]: https://leetcode.com/problems/ 
-[837-leetcode]: https://leetcode.com/problems/ 
-[838-leetcode]: https://leetcode.com/problems/ 
-[839-leetcode]: https://leetcode.com/problems/ 
-[840-leetcode]: https://leetcode.com/problems/ 
-[841-leetcode]: https://leetcode.com/problems/ 
-[842-leetcode]: https://leetcode.com/problems/ 
-[843-leetcode]: https://leetcode.com/problems/ 
-[844-leetcode]: https://leetcode.com/problems/ 
-[845-leetcode]: https://leetcode.com/problems/ 
-[846-leetcode]: https://leetcode.com/problems/ 
-[847-leetcode]: https://leetcode.com/problems/ 
-[848-leetcode]: https://leetcode.com/problems/ 
-[849-leetcode]: https://leetcode.com/problems/ 
-[850-leetcode]: https://leetcode.com/problems/ 
-[851-leetcode]: https://leetcode.com/problems/ 
-[852-leetcode]: https://leetcode.com/problems/ 
-[853-leetcode]: https://leetcode.com/problems/ 
-[854-leetcode]: https://leetcode.com/problems/ 
-[855-leetcode]: https://leetcode.com/problems/ 
-[856-leetcode]: https://leetcode.com/problems/ 
-[857-leetcode]: https://leetcode.com/problems/ 
-[858-leetcode]: https://leetcode.com/problems/ 
-[859-leetcode]: https://leetcode.com/problems/ 
-[860-leetcode]: https://leetcode.com/problems/ 
-[861-leetcode]: https://leetcode.com/problems/ 
-[862-leetcode]: https://leetcode.com/problems/ 
-[863-leetcode]: https://leetcode.com/problems/ 
-[864-leetcode]: https://leetcode.com/problems/ 
-[865-leetcode]: https://leetcode.com/problems/ 
-[866-leetcode]: https://leetcode.com/problems/ 
-[867-leetcode]: https://leetcode.com/problems/ 
-[868-leetcode]: https://leetcode.com/problems/ 
-[869-leetcode]: https://leetcode.com/problems/ 
-[870-leetcode]: https://leetcode.com/problems/ 
-[871-leetcode]: https://leetcode.com/problems/ 
-[872-leetcode]: https://leetcode.com/problems/ 
-[873-leetcode]: https://leetcode.com/problems/ 
-[874-leetcode]: https://leetcode.com/problems/ 
-[875-leetcode]: https://leetcode.com/problems/   
 
 <!-- source code links-->
 [001-code]: https://github.com/ipudu/leetcode/blob/master/solutions/001_two-sum.py
