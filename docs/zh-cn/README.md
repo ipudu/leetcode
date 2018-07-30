@@ -204,7 +204,7 @@
 | 186 | | | |
 | 187 | **Repeated DNA Sequences** | [:octocat:][187-code] | |
 | 188 | | | |
-| 189 | | | |
+| 189 | **Rotate Array** | [:octocat:][189-code] | |
 | 190 | **Reverse Bits** | [:octocat:][190-code] | |
 | 191 | **Number of 1 Bits** | [:octocat:][191-code] | |
 | 192 | **Word Frequency** | [:octocat:][192-code] | |
@@ -1080,7 +1080,7 @@
 [186-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [187-code]: https://github.com/ipudu/leetcode/blob/master/solutions/187_repeated-dna-sequences.py 
 [188-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[189-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[189-code]: https://github.com/ipudu/leetcode/blob/master/solutions/189_rotate-array.py 
 [190-code]: https://github.com/ipudu/leetcode/blob/master/solutions/190_reverse-bits.py 
 [191-code]: https://github.com/ipudu/leetcode/blob/master/solutions/191_number-of-1-bits.py 
 [192-code]: https://github.com/ipudu/leetcode/blob/master/solutions/192_word-frequency.sh 
