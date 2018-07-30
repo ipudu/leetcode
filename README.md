@@ -703,7 +703,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 683 | | | |
 | 684 | | | |
 | 685 | | | |
-| 686 | | | |
+| 686 | **Repeated String Match** | [:octocat:][686-code] | |
 | 687 | | | |
 | 688 | | | |
 | 689 | | | |
@@ -1579,7 +1579,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [683-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [684-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [685-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[686-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[686-code]: https://github.com/ipudu/leetcode/blob/master/solutions/686_repeated-string-match.py 
 [687-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [688-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [689-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
