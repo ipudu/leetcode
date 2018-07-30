@@ -611,7 +611,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 591 | | | |
 | 592 | | | |
 | 593 | | | |
-| 594 | | | |
+| 594 | **Longest Harmonious Subsequence** | [:octocat:][594-code] | |
 | 595 | **Big Countries** | [:octocat:][595-code] | |
 | 596 | | | |
 | 597 | | | |
@@ -1487,7 +1487,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [591-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [592-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [593-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[594-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[594-code]: https://github.com/ipudu/leetcode/blob/master/solutions/594_longest-harmonious-subsequence.py 
 [595-code]: https://github.com/ipudu/leetcode/blob/master/solutions/595_big-countries.sql 
 [596-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [597-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
