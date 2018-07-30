@@ -393,7 +393,7 @@
 | 375 | | | |
 | 376 | | | |
 | 377 | | | |
-| 378 | | | |
+| 378 | **Kth Smallest Element In A Sorted Matrix** | [:octocat:][378-code] | |
 | 379 | | | |
 | 380 | | | |
 | 381 | | | |
@@ -1269,7 +1269,7 @@
 [375-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [376-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [377-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[378-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[378-code]: https://github.com/ipudu/leetcode/blob/master/solutions/378_kth-smallest-element-in-a-sorted-matrix.py 
 [379-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [380-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [381-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
