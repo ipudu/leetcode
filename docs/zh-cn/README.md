@@ -474,7 +474,7 @@
 | 456 | | | |
 | 457 | | | |
 | 458 | | | |
-| 459 | | | |
+| 459 | **Repeated Substring Pattern** | [:octocat:][459-code] | |
 | 460 | | | |
 | 461 | **Hamming Distance** | [:octocat:][461-code] | |
 | 462 | | | |
@@ -1350,7 +1350,7 @@
 [456-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [457-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [458-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[459-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[459-code]: https://github.com/ipudu/leetcode/blob/master/solutions/459_repeated-substring-pattern.py 
 [460-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [461-code]: https://github.com/ipudu/leetcode/blob/master/solutions/461_hamming-distance.py 
 [462-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
