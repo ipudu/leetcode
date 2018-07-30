@@ -864,7 +864,7 @@
 | 846 | | | |
 | 847 | | | |
 | 848 | | | |
-| 849 | | | |
+| 849 | **Maximize Distance To Closest Person** | [:octocat:][849-code] | |
 | 850 | | | |
 | 851 | | | |
 | 852 | **Peak Index in a Mountain Array** | [:octocat:][852-code] | |
@@ -1740,7 +1740,7 @@
 [846-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [847-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [848-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[849-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[849-code]: https://github.com/ipudu/leetcode/blob/master/solutions/849_maximize-distance-to-closest-person.py 
 [850-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [851-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [852-code]: https://github.com/ipudu/leetcode/blob/master/solutions/852_peak-index-in-a-mountain-array.py 
