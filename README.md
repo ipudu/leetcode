@@ -645,7 +645,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 625 | | | |
 | 626 | | | |
 | 627 | **Swap Salary** | [:octocat:][627-code] | |
-| 628 | | | |
+| 628 | **Maximum Product Of Three Numbers** | [:octocat:][628-code] | |
 | 629 | | | |
 | 630 | | | |
 | 631 | | | |
@@ -1521,7 +1521,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [625-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [626-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [627-code]: https://github.com/ipudu/leetcode/blob/master/solutions/627_swap-salary.sql 
-[628-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[628-code]: https://github.com/ipudu/leetcode/blob/master/solutions/628_maximum-product-of-three-numbers.py 
 [629-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [630-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [631-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
