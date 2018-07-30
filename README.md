@@ -523,7 +523,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 503 | | | |
 | 504 | **Base 7** | [:octocat:][504-code] | |
 | 505 | | | |
-| 506 | | | |
+| 506 | **Relative Ranks** | [:octocat:][506-code] | |
 | 507 | **Perfect Number** | [:octocat:][507-code] | |
 | 508 | | | |
 | 509 | | | |
@@ -1399,7 +1399,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [503-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [504-code]: https://github.com/ipudu/leetcode/blob/master/solutions/504_base-7.py 
 [505-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[506-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[506-code]: https://github.com/ipudu/leetcode/blob/master/solutions/506_relative-ranks.py 
 [507-code]: https://github.com/ipudu/leetcode/blob/master/solutions/507_perfect-number.py 
 [508-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [509-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
