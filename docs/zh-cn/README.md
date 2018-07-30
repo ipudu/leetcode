@@ -43,7 +43,7 @@
 | 025 | | | |
 | 026 | **Remove Duplicates from Sorted Array** | [:octocat:][026-code] | |
 | 027 | **Remove Element** | [:octocat:][027-code] | |
-| 028 | | | |
+| 028 | **Implement Strstr()** | [:octocat:][028-code] | |
 | 029 | | | |
 | 030 | | | |
 | 031 | | | |
@@ -919,7 +919,7 @@
 [025-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [026-code]: https://github.com/ipudu/leetcode/blob/master/solutions/026_remove-duplicates-from-sorted-array.py 
 [027-code]: https://github.com/ipudu/leetcode/blob/master/solutions/027_remove-element.py 
-[028-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[028-code]: https://github.com/ipudu/leetcode/blob/master/solutions/028_implement-strStr().py 
 [029-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [030-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [031-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
