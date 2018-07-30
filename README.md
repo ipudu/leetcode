@@ -660,7 +660,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 640 | | | |
 | 641 | | | |
 | 642 | | | |
-| 643 | | | |
+| 643 | **Maximum Average Subarray I** | [:octocat:][643-code] | |
 | 644 | | | |
 | 645 | **Set Mismatch** | [:octocat:][645-code] | |
 | 646 | | | |
@@ -1536,7 +1536,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [640-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [641-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [642-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[643-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[643-code]: https://github.com/ipudu/leetcode/blob/master/solutions/643_maximum-average-subarray-i.py 
 [644-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [645-code]: https://github.com/ipudu/leetcode/blob/master/solutions/645_set-mismatch.py 
 [646-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
