@@ -596,7 +596,7 @@
 | 578 | | | |
 | 579 | | | |
 | 580 | | | |
-| 581 | | | |
+| 581 | **Shortest Unsorted Continuous Subarray** | [:octocat:][581-code] | |
 | 582 | | | |
 | 583 | | | |
 | 584 | | | |
@@ -1472,7 +1472,7 @@
 [578-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [579-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [580-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[581-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[581-code]: https://github.com/ipudu/leetcode/blob/master/solutions/581_shortest-unsorted-continuous-subarray.py 
 [582-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [583-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [584-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
