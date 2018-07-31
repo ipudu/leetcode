@@ -822,7 +822,7 @@
 | 804 | **Unique Morse Code Words** | [:octocat:][804-code] | |
 | 805 | | | |
 | 806 | | | |
-| 807 | | | |
+| 807 | **Max Increase To Keep City Skyline** | [:octocat:][807-code] | |
 | 808 | | | |
 | 809 | | | |
 | 810 | | | |
@@ -1698,7 +1698,7 @@
 [804-code]: https://github.com/ipudu/leetcode/blob/master/solutions/804_unique-morse-code-words.py 
 [805-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [806-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[807-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[807-code]: https://github.com/ipudu/leetcode/blob/master/solutions/807_max-increase-to-keep-city-skyline.py 
 [808-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [809-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [810-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
