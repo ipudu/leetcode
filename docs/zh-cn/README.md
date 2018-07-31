@@ -845,7 +845,7 @@
 | 827 | | | |
 | 828 | | | |
 | 829 | | | |
-| 830 | | | |
+| 830 | **Positions Of Large Groups** | [:octocat:][830-code] | |
 | 831 | | | |
 | 832 | **Flipping an Image** | [:octocat:][832-code] | |
 | 833 | | | |
@@ -1721,7 +1721,7 @@
 [827-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [828-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [829-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[830-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[830-code]: https://github.com/ipudu/leetcode/blob/master/solutions/830_positions-of-large-groups.py 
 [831-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [832-code]: https://github.com/ipudu/leetcode/blob/master/solutions/832_flipping-an-image.py 
 [833-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
