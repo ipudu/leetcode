@@ -720,8 +720,8 @@
 | 702 | | | |
 | 703 | | | |
 | 704 | | | |
-| 705 | | | |
-| 706 | | | |
+| 705 | **Design Hashset** | [:octocat:][705-code] | |
+| 706 | **Design Hashmap** | [:octocat:][706-code] | |
 | 707 | | | |
 | 708 | | | |
 | 709 | **To Lower Case** | [:octocat:][709-code] | |
@@ -1596,8 +1596,8 @@
 [702-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [703-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [704-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[705-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[706-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[705-code]: https://github.com/ipudu/leetcode/blob/master/solutions/705_design-hashset.py 
+[706-code]: https://github.com/ipudu/leetcode/blob/master/solutions/706_design-hashmap.py 
 [707-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [708-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [709-code]: https://github.com/ipudu/leetcode/blob/master/solutions/709_to-lower-case.py 
