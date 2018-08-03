@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Fri Aug  3 14:11:30 2018**
+**Last updated time: Fri Aug  3 15:20:06 2018**
 
 ## Table of Contents
 
@@ -183,7 +183,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 161 | | | |
 | 162 | | | |
 | 163 | | | |
-| 164 | | | |
+| 164 | **Maximum Gap** | [:octocat:][164-code] | |
 | 165 | | | |
 | 166 | | | |
 | 167 | | | |
@@ -1059,7 +1059,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [161-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [162-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [163-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[164-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[164-code]: https://github.com/ipudu/leetcode/blob/master/solutions/164_maximum-gap.py 
 [165-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [166-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [167-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 

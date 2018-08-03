@@ -179,7 +179,7 @@
 | 161 | | | |
 | 162 | | | |
 | 163 | | | |
-| 164 | | | |
+| 164 | **Maximum Gap** | [:octocat:][164-code] | |
 | 165 | | | |
 | 166 | | | |
 | 167 | | | |
@@ -1055,7 +1055,7 @@
 [161-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [162-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [163-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[164-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[164-code]: https://github.com/ipudu/leetcode/blob/master/solutions/164_maximum-gap.py 
 [165-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [166-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [167-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
