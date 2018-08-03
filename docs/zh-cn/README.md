@@ -166,7 +166,7 @@
 | 148 | | | |
 | 149 | | | |
 | 150 | | | |
-| 151 | | | |
+| 151 | **Reverse Words In A String** | [:octocat:][151-code] | |
 | 152 | | | |
 | 153 | | | |
 | 154 | | | |
@@ -1042,7 +1042,7 @@
 [148-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [149-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [150-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[151-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[151-code]: https://github.com/ipudu/leetcode/blob/master/solutions/151_reverse-words-in-a-string.py 
 [152-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [153-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [154-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 

@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Fri Aug  3 15:46:05 2018**
+**Last updated time: Fri Aug  3 16:13:36 2018**
 
 ## Table of Contents
 
@@ -170,7 +170,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 148 | | | |
 | 149 | | | |
 | 150 | | | |
-| 151 | | | |
+| 151 | **Reverse Words In A String** | [:octocat:][151-code] | |
 | 152 | | | |
 | 153 | | | |
 | 154 | | | |
@@ -1046,7 +1046,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [148-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [149-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [150-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[151-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[151-code]: https://github.com/ipudu/leetcode/blob/master/solutions/151_reverse-words-in-a-string.py 
 [152-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [153-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [154-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
