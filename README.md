@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Thu Aug  2 12:09:26 2018**
+**Last updated time: Fri Aug  3 14:11:30 2018**
 
 ## Table of Contents
 
@@ -696,7 +696,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 674 | | | |
 | 675 | | | |
 | 676 | | | |
-| 677 | | | |
+| 677 | **Map Sum Pairs** | [:octocat:][677-code] | |
 | 678 | | | |
 | 679 | | | |
 | 680 | | | |
@@ -1572,7 +1572,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [674-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [675-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [676-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[677-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[677-code]: https://github.com/ipudu/leetcode/blob/master/solutions/677_map-sum-pairs.py 
 [678-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [679-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [680-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 

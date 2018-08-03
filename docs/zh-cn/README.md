@@ -692,7 +692,7 @@
 | 674 | | | |
 | 675 | | | |
 | 676 | | | |
-| 677 | | | |
+| 677 | **Map Sum Pairs** | [:octocat:][677-code] | |
 | 678 | | | |
 | 679 | | | |
 | 680 | | | |
@@ -1568,7 +1568,7 @@
 [674-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [675-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [676-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[677-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[677-code]: https://github.com/ipudu/leetcode/blob/master/solutions/677_map-sum-pairs.py 
 [678-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [679-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [680-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
