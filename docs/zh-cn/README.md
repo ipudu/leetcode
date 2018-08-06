@@ -98,7 +98,7 @@
 | 080 | | | |
 | 081 | | | |
 | 082 | | | |
-| 083 | | | |
+| 083 | **Remove Duplicates From Sorted List** | [:octocat:][083-code] | |
 | 084 | | | |
 | 085 | | | |
 | 086 | | | |
@@ -974,7 +974,7 @@
 [080-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [081-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [082-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[083-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[083-code]: https://github.com/ipudu/leetcode/blob/master/solutions/083_remove-duplicates-from-sorted-list.py 
 [084-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [085-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [086-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 

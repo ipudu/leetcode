@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Fri Aug  3 16:13:36 2018**
+**Last updated time: Mon Aug  6 12:22:51 2018**
 
 ## Table of Contents
 
@@ -102,7 +102,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 080 | | | |
 | 081 | | | |
 | 082 | | | |
-| 083 | | | |
+| 083 | **Remove Duplicates From Sorted List** | [:octocat:][083-code] | |
 | 084 | | | |
 | 085 | | | |
 | 086 | | | |
@@ -978,7 +978,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [080-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [081-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [082-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[083-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[083-code]: https://github.com/ipudu/leetcode/blob/master/solutions/083_remove-duplicates-from-sorted-list.py 
 [084-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [085-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [086-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
