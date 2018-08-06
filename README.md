@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Mon Aug  6 12:22:51 2018**
+**Last updated time: Mon Aug  6 16:48:18 2018**
 
 ## Table of Contents
 
@@ -140,7 +140,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 118 | | | |
 | 119 | | | |
 | 120 | | | |
-| 121 | | | |
+| 121 | **Best Time To Buy And Sell Stock** | [:octocat:][121-code] | |
 | 122 | | | |
 | 123 | | | |
 | 124 | | | |
@@ -1016,7 +1016,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [118-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [119-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [120-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[121-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[121-code]: https://github.com/ipudu/leetcode/blob/master/solutions/121_best-time-to-buy-and-sell-stock.py 
 [122-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [123-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [124-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
