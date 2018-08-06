@@ -68,7 +68,7 @@
 | 050 | **Pow(x, n)** | [:octocat:][050-code] | |
 | 051 | | | |
 | 052 | | | |
-| 053 | | | |
+| 053 | **Maximum Subarray** | [:octocat:][053-code] | |
 | 054 | | | |
 | 055 | | | |
 | 056 | | | |
@@ -944,7 +944,7 @@
 [050-code]: https://github.com/ipudu/leetcode/blob/master/solutions/050_pow.py 
 [051-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [052-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[053-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[053-code]: https://github.com/ipudu/leetcode/blob/master/solutions/053_maximum-subarray.py 
 [054-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [055-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [056-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
