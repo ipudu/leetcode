@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Tue Aug  7 22:42:35 2018**
+**Last updated time: Wed Aug  8 18:08:50 2018**
 
 ## Table of Contents
 
@@ -554,7 +554,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 532 | | | |
 | 533 | | | |
 | 534 | | | |
-| 535 | | | |
+| 535 | **Encode And Decode Tinyurl** | [:octocat:][535-code] | |
 | 536 | | | |
 | 537 | **Complex Number Multiplication** | [:octocat:][537-code] | |
 | 538 | | | |
@@ -1430,7 +1430,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [532-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [533-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [534-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[535-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[535-code]: https://github.com/ipudu/leetcode/blob/master/solutions/535_encode-and-decode-tinyURL.py 
 [536-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [537-code]: https://github.com/ipudu/leetcode/blob/master/solutions/537_complex-number-multiplication.py 
 [538-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 

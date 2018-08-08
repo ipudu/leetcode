@@ -550,7 +550,7 @@
 | 532 | | | |
 | 533 | | | |
 | 534 | | | |
-| 535 | | | |
+| 535 | **Encode And Decode Tinyurl** | [:octocat:][535-code] | |
 | 536 | | | |
 | 537 | **Complex Number Multiplication** | [:octocat:][537-code] | |
 | 538 | | | |
@@ -1426,7 +1426,7 @@
 [532-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [533-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [534-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[535-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[535-code]: https://github.com/ipudu/leetcode/blob/master/solutions/535_encode-and-decode-tinyURL.py 
 [536-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [537-code]: https://github.com/ipudu/leetcode/blob/master/solutions/537_complex-number-multiplication.py 
 [538-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
