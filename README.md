@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Thu Aug  9 10:12:30 2018**
+**Last updated time: Thu Aug  9 13:23:12 2018**
 
 ## Table of Contents
 
@@ -497,7 +497,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 475 | | | |
 | 476 | **Number Complement** | [:octocat:][476-code] | |
 | 477 | | | |
-| 478 | | | |
+| 478 | **Generate Random Point In A Circle** | [:octocat:][478-code] | |
 | 479 | | | |
 | 480 | | | |
 | 481 | | | |
@@ -1373,7 +1373,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [475-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [476-code]: https://github.com/ipudu/leetcode/blob/master/solutions/476_number-complement.py 
 [477-code]: https://github.com/ipudu/leetcode/blob/master/solutions/477_total-hamming-distance.py 
-[478-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[478-code]: https://github.com/ipudu/leetcode/blob/master/solutions/478_generate-random-point-in-a-circle.py 
 [479-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [480-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [481-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
