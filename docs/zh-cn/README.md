@@ -401,7 +401,7 @@
 | 383 | | | |
 | 384 | | | |
 | 385 | | | |
-| 386 | | | |
+| 386 | **Lexicographical Numbers** | [:octocat:][386-code] | |
 | 387 | **First Unique Character In A String** | [:octocat:][387-code] | |
 | 388 | | | |
 | 389 | **Find the Difference** | [:octocat:][389-code] | |
@@ -1277,7 +1277,7 @@
 [383-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [384-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [385-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[386-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[386-code]: https://github.com/ipudu/leetcode/blob/master/solutions/386_lexicographical-numbers.py 
 [387-code]: https://github.com/ipudu/leetcode/blob/master/solutions/387_first-unique-character-in-a-string.py 
 [388-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [389-code]: https://github.com/ipudu/leetcode/blob/master/solutions/389_find-the-difference.py 

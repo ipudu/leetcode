@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Wed Aug  8 18:08:50 2018**
+**Last updated time: Thu Aug  9 10:12:30 2018**
 
 ## Table of Contents
 
@@ -405,7 +405,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 383 | | | |
 | 384 | | | |
 | 385 | | | |
-| 386 | | | |
+| 386 | **Lexicographical Numbers** | [:octocat:][386-code] | |
 | 387 | **First Unique Character In A String** | [:octocat:][387-code] | |
 | 388 | | | |
 | 389 | **Find the Difference** | [:octocat:][389-code] | |
@@ -1281,7 +1281,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [383-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [384-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [385-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[386-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[386-code]: https://github.com/ipudu/leetcode/blob/master/solutions/386_lexicographical-numbers.py 
 [387-code]: https://github.com/ipudu/leetcode/blob/master/solutions/387_first-unique-character-in-a-string.py 
 [388-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [389-code]: https://github.com/ipudu/leetcode/blob/master/solutions/389_find-the-difference.py 
