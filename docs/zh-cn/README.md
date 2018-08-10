@@ -941,7 +941,7 @@
 [047-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [048-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [049-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[050-code]: https://github.com/ipudu/leetcode/blob/master/solutions/050_pow.py050_pow.py 
+[050-code]: https://github.com/ipudu/leetcode/blob/master/solutions/050_pow.py
 [051-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [052-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [053-code]: https://github.com/ipudu/leetcode/blob/master/solutions/053_maximum-subarray.py 
