@@ -20,7 +20,7 @@ Note:
 n is a 32-bit signed integer, within the range [−231, 231 − 1]
 """
 
-class Solution:
+class Solution(object):
     def myPow(self, x, n):
         """
         :type x: float
@@ -29,14 +29,19 @@ class Solution:
         """
         if n == 0:
             return 1
+
+        postive = n > 0
+        n = abs(n)
         
-        i = 0
-        result = 1
-        
-        while i < abs(n):
-            result *= x
-            i += 1
-        if n < 0:
-            return 1/result
-        else:
+        def p(x, n):
+            if n == 1:
+                return x
+            elif n % 2:
+                return x * p(x*x, n//2)
+            else:
+                return p(x*x, n//2)
+        result = p(x, n)
+        if postive:
             return result
+        else:
+            return  1 / result

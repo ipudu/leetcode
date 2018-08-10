@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Thu Aug  9 13:23:12 2018**
+**Last updated time: Fri Aug 10 12:00:41 2018**
 
 ## Table of Contents
 
@@ -69,7 +69,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 047 | | | |
 | 048 | | | |
 | 049 | | | |
-| 050 | **Pow(x, n)** | [:octocat:][050-code] | |
+| 050 | **Pow** | [:octocat:][050-code] | |
 | 051 | | | |
 | 052 | | | |
 | 053 | **Maximum Subarray** | [:octocat:][053-code] | |
@@ -945,7 +945,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [047-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [048-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [049-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[050-code]: https://github.com/ipudu/leetcode/blob/master/solutions/050_pow.py 
+[050-code]: https://github.com/ipudu/leetcode/blob/master/solutions/050_pow.py050_pow.py 
 [051-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [052-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [053-code]: https://github.com/ipudu/leetcode/blob/master/solutions/053_maximum-subarray.py 
