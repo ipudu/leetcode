@@ -182,7 +182,7 @@
 | 164 | **Maximum Gap** | [:octocat:][164-code] | |
 | 165 | **Compare Version Numbers** | [:octocat:][165-code] | |
 | 166 | | | |
-| 167 | | | |
+| 167 | **Two Sum Ii Input Array Is Sorted** | [:octocat:][167-code] | |
 | 168 | | | |
 | 169 | **Majority Element** | [:octocat:][169-code] | |
 | 170 | | | |
@@ -1058,7 +1058,7 @@
 [164-code]: https://github.com/ipudu/leetcode/blob/master/solutions/164_maximum-gap.py 
 [165-code]: https://github.com/ipudu/leetcode/blob/master/solutions/165_compare-version-numbers.py 
 [166-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[167-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[167-code]: https://github.com/ipudu/leetcode/blob/master/solutions/167_two-sum-ii-input-array-is-sorted.py 
 [168-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [169-code]: https://github.com/ipudu/leetcode/blob/master/solutions/169_majority-element.py 
 [170-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
