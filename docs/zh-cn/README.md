@@ -365,7 +365,7 @@
 | 347 | **Top K Frequent Elements** | [:octocat:][347-code] | |
 | 348 | | | |
 | 349 | **Intersection of Two Arrays** | [:octocat:][349-code] | |
-| 350 | | | |
+| 350 | **Intersection Of Two Arrays Ii** | [:octocat:][350-code] | |
 | 351 | | | |
 | 352 | | | |
 | 353 | | | |
@@ -1241,7 +1241,7 @@
 [347-code]: https://github.com/ipudu/leetcode/blob/master/solutions/347_top-k-frequent-elements.py 
 [348-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [349-code]: https://github.com/ipudu/leetcode/blob/master/solutions/349_intersection-of-two-arrays.py 
-[350-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[350-code]: https://github.com/ipudu/leetcode/blob/master/solutions/350_intersection-of-two-arrays-ii.py 
 [351-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [352-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [353-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
