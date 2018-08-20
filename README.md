@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Mon Aug 20 16:51:13 2018**
+**Last updated time: Mon Aug 20 17:08:51 2018**
 
 ## Table of Contents
 
@@ -224,7 +224,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 202 | | | |
 | 203 | | | |
 | 204 | | | |
-| 205 | | | |
+| 205 | **Isomorphic Strings** | [:octocat:][205-code] | |
 | 206 | | | |
 | 207 | | | |
 | 208 | | | |
@@ -1100,7 +1100,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [202-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [203-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [204-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[205-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[205-code]: https://github.com/ipudu/leetcode/blob/master/solutions/205_isomorphic-strings.py 
 [206-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [207-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [208-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
