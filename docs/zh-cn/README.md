@@ -197,7 +197,7 @@
 | 179 | | | |
 | 180 | | | |
 | 181 | | | |
-| 182 | | | |
+| 182 | **Duplicate Emails** | [:octocat:][182-code] | |
 | 183 | | | |
 | 184 | | | |
 | 185 | | | |
@@ -1073,7 +1073,7 @@
 [179-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [180-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [181-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[182-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[182-code]: https://github.com/ipudu/leetcode/blob/master/solutions/182_duplicate-emails.sql 
 [183-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [184-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [185-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 

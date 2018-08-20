@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Mon Aug 20 10:10:37 2018**
+**Last updated time: Mon Aug 20 13:27:41 2018**
 
 ## Table of Contents
 
@@ -201,7 +201,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 179 | | | |
 | 180 | | | |
 | 181 | | | |
-| 182 | | | |
+| 182 | **Duplicate Emails** | [:octocat:][182-code] | |
 | 183 | | | |
 | 184 | | | |
 | 185 | | | |
@@ -1077,7 +1077,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [179-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [180-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [181-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[182-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[182-code]: https://github.com/ipudu/leetcode/blob/master/solutions/182_duplicate-emails.sql 
 [183-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [184-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [185-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
