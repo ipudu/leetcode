@@ -839,7 +839,7 @@
 | 821 | **Shortest Distance to a Character** | [:octocat:][821-code] | |
 | 822 | | | |
 | 823 | | | |
-| 824 | | | |
+| 824 | **Goat Latin** | [:octocat:][824-code] | |
 | 825 | | | |
 | 826 | | | |
 | 827 | | | |
@@ -1715,7 +1715,7 @@
 [821-code]: https://github.com/ipudu/leetcode/blob/master/solutions/821_shortest-distance-to-a-character.py 
 [822-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [823-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[824-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[824-code]: https://github.com/ipudu/leetcode/blob/master/solutions/824_goat-latin.py 
 [825-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [826-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [827-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
