@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Fri Aug 17 15:17:07 2018**
+**Last updated time: Sun Aug 19 20:58:30 2018**
 
 ## Table of Contents
 
@@ -402,7 +402,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 380 | | | |
 | 381 | | | |
 | 382 | | | |
-| 383 | | | |
+| 383 | **Ransom Note** | [:octocat:][383-code] | |
 | 384 | | | |
 | 385 | | | |
 | 386 | **Lexicographical Numbers** | [:octocat:][386-code] | |
@@ -1278,7 +1278,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [380-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [381-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [382-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[383-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[383-code]: https://github.com/ipudu/leetcode/blob/master/solutions/383_ransom-note.py 
 [384-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [385-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [386-code]: https://github.com/ipudu/leetcode/blob/master/solutions/386_lexicographical-numbers.py 

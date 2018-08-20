@@ -398,7 +398,7 @@
 | 380 | | | |
 | 381 | | | |
 | 382 | | | |
-| 383 | | | |
+| 383 | **Ransom Note** | [:octocat:][383-code] | |
 | 384 | | | |
 | 385 | | | |
 | 386 | **Lexicographical Numbers** | [:octocat:][386-code] | |
@@ -1274,7 +1274,7 @@
 [380-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [381-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [382-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[383-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[383-code]: https://github.com/ipudu/leetcode/blob/master/solutions/383_ransom-note.py 
 [384-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [385-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [386-code]: https://github.com/ipudu/leetcode/blob/master/solutions/386_lexicographical-numbers.py 
