@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Mon Aug 20 16:18:14 2018**
+**Last updated time: Mon Aug 20 16:51:13 2018**
 
 ## Table of Contents
 
@@ -309,7 +309,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 287 | | | |
 | 288 | | | |
 | 289 | | | |
-| 290 | | | |
+| 290 | **Word Pattern** | [:octocat:][290-code] | |
 | 291 | | | |
 | 292 | | | |
 | 293 | | | |
@@ -1185,7 +1185,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [287-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [288-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [289-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[290-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[290-code]: https://github.com/ipudu/leetcode/blob/master/solutions/290_word-pattern.py 
 [291-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [292-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [293-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 

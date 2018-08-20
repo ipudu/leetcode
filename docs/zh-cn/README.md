@@ -305,7 +305,7 @@
 | 287 | | | |
 | 288 | | | |
 | 289 | | | |
-| 290 | | | |
+| 290 | **Word Pattern** | [:octocat:][290-code] | |
 | 291 | | | |
 | 292 | | | |
 | 293 | | | |
@@ -1181,7 +1181,7 @@
 [287-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [288-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [289-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[290-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[290-code]: https://github.com/ipudu/leetcode/blob/master/solutions/290_word-pattern.py 
 [291-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [292-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [293-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
