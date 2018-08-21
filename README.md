@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Mon Aug 20 17:08:51 2018**
+**Last updated time: Tue Aug 21 16:50:01 2018**
 
 ## Table of Contents
 
@@ -391,7 +391,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 369 | | | |
 | 370 | | | |
 | 371 | | | |
-| 372 | | | |
+| 372 | **Super Pow** | [:octocat:][372-code] | |
 | 373 | | | |
 | 374 | | | |
 | 375 | | | |
@@ -1267,7 +1267,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [369-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [370-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [371-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[372-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[372-code]: https://github.com/ipudu/leetcode/blob/master/solutions/372_super-pow.py 
 [373-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [374-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [375-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 

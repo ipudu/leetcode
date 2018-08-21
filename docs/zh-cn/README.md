@@ -387,7 +387,7 @@
 | 369 | | | |
 | 370 | | | |
 | 371 | | | |
-| 372 | | | |
+| 372 | **Super Pow** | [:octocat:][372-code] | |
 | 373 | | | |
 | 374 | | | |
 | 375 | | | |
@@ -1263,7 +1263,7 @@
 [369-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [370-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [371-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[372-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[372-code]: https://github.com/ipudu/leetcode/blob/master/solutions/372_super-pow.py 
 [373-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [374-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [375-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
