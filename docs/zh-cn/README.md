@@ -632,7 +632,7 @@
 | 614 | | | |
 | 615 | | | |
 | 616 | | | |
-| 617 | | | |
+| 617 | **Merge Two Binary Trees** | [:octocat:][617-code] | |
 | 618 | | | |
 | 619 | | | |
 | 620 | **Not Boring Movies** | [:octocat:][620-code] | |
@@ -1508,7 +1508,7 @@
 [614-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [615-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [616-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[617-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[617-code]: https://github.com/ipudu/leetcode/blob/master/solutions/617_merge-two-binary-trees.py 
 [618-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [619-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [620-code]: https://github.com/ipudu/leetcode/blob/master/solutions/620_not-boring-movies.sql 
