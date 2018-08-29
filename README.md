@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Mon Aug 27 10:42:02 2018**
+**Last updated time: Tue Aug 28 21:18:17 2018**
 
 ## Table of Contents
 
@@ -739,7 +739,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 717 | | | |
 | 718 | | | |
 | 719 | | | |
-| 720 | | | |
+| 720 | **Longest Word In Dictionary** | [:octocat:][720-code] | |
 | 721 | | | |
 | 722 | | | |
 | 723 | | | |
@@ -1615,7 +1615,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [717-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [718-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [719-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[720-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[720-code]: https://github.com/ipudu/leetcode/blob/master/solutions/720_longest-word-in-dictionary.py 
 [721-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [722-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [723-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 

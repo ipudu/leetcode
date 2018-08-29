@@ -735,7 +735,7 @@
 | 717 | | | |
 | 718 | | | |
 | 719 | | | |
-| 720 | | | |
+| 720 | **Longest Word In Dictionary** | [:octocat:][720-code] | |
 | 721 | | | |
 | 722 | | | |
 | 723 | | | |
@@ -1611,7 +1611,7 @@
 [717-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [718-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [719-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[720-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[720-code]: https://github.com/ipudu/leetcode/blob/master/solutions/720_longest-word-in-dictionary.py 
 [721-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [722-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [723-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
