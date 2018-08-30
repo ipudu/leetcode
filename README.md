@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Thu Aug 30 15:07:25 2018**
+**Last updated time: Thu Aug 30 15:19:50 2018**
 
 ## Table of Contents
 
@@ -93,7 +93,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 071 | | | |
 | 072 | | | |
 | 073 | | | |
-| 074 | | | |
+| 074 | **Search A 2d Matrix** | [:octocat:][074-code] | |
 | 075 | | | |
 | 076 | | | |
 | 077 | | | |
@@ -969,7 +969,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [071-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [072-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [073-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[074-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[074-code]: https://github.com/ipudu/leetcode/blob/master/solutions/074_search-a-2D-matrix.py 
 [075-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [076-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [077-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 

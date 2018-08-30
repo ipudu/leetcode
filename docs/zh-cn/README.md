@@ -89,7 +89,7 @@
 | 071 | | | |
 | 072 | | | |
 | 073 | | | |
-| 074 | | | |
+| 074 | **Search A 2d Matrix** | [:octocat:][074-code] | |
 | 075 | | | |
 | 076 | | | |
 | 077 | | | |
@@ -965,7 +965,7 @@
 [071-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [072-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [073-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[074-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[074-code]: https://github.com/ipudu/leetcode/blob/master/solutions/074_search-a-2D-matrix.py 
 [075-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [076-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [077-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
