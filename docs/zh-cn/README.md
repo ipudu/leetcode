@@ -360,7 +360,7 @@
 | 342 | **Power of Four** | [:octocat:][342-code] | |
 | 343 | | | |
 | 344 | **Reverse String** | [:octocat:][344-code] | |
-| 345 | | | |
+| 345 | **Reverse Vowels Of A String** | [:octocat:][345-code] | |
 | 346 | | | |
 | 347 | **Top K Frequent Elements** | [:octocat:][347-code] | |
 | 348 | | | |
@@ -1236,7 +1236,7 @@
 [342-code]: https://github.com/ipudu/leetcode/blob/master/solutions/342_power-of-four.py 
 [343-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [344-code]: https://github.com/ipudu/leetcode/blob/master/solutions/344_reverse-string.py 
-[345-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[345-code]: https://github.com/ipudu/leetcode/blob/master/solutions/345_reverse-vowels-of-a-string.py 
 [346-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [347-code]: https://github.com/ipudu/leetcode/blob/master/solutions/347_top-k-frequent-elements.py 
 [348-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 

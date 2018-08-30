@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Tue Aug 28 21:18:17 2018**
+**Last updated time: Thu Aug 30 14:45:10 2018**
 
 ## Table of Contents
 
@@ -364,7 +364,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 342 | **Power of Four** | [:octocat:][342-code] | |
 | 343 | | | |
 | 344 | **Reverse String** | [:octocat:][344-code] | |
-| 345 | | | |
+| 345 | **Reverse Vowels Of A String** | [:octocat:][345-code] | |
 | 346 | | | |
 | 347 | **Top K Frequent Elements** | [:octocat:][347-code] | |
 | 348 | | | |
@@ -1240,7 +1240,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [342-code]: https://github.com/ipudu/leetcode/blob/master/solutions/342_power-of-four.py 
 [343-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [344-code]: https://github.com/ipudu/leetcode/blob/master/solutions/344_reverse-string.py 
-[345-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[345-code]: https://github.com/ipudu/leetcode/blob/master/solutions/345_reverse-vowels-of-a-string.py 
 [346-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [347-code]: https://github.com/ipudu/leetcode/blob/master/solutions/347_top-k-frequent-elements.py 
 [348-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
