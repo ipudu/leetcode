@@ -322,7 +322,7 @@
 | 304 | | | |
 | 305 | | | |
 | 306 | | | |
-| 307 | | | |
+| 307 | **Range Sum Query Mutable** | [:octocat:][307-code] | |
 | 308 | | | |
 | 309 | | | |
 | 310 | | | |
@@ -1198,7 +1198,7 @@
 [304-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [305-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [306-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[307-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[307-code]: https://github.com/ipudu/leetcode/blob/master/solutions/307_range-sum-query-mutable.py 
 [308-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [309-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [310-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
