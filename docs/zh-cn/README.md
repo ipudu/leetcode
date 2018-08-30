@@ -318,7 +318,7 @@
 | 300 | | | |
 | 301 | | | |
 | 302 | | | |
-| 303 | | | |
+| 303 | **Range Sum Query Immutable** | [:octocat:][303-code] | |
 | 304 | | | |
 | 305 | | | |
 | 306 | | | |
@@ -1194,7 +1194,7 @@
 [300-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [301-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [302-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[303-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[303-code]: https://github.com/ipudu/leetcode/blob/master/solutions/303_range-sum-query-immutable.py 
 [304-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [305-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [306-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 

@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Thu Aug 30 14:45:10 2018**
+**Last updated time: Thu Aug 30 14:57:32 2018**
 
 ## Table of Contents
 
@@ -322,7 +322,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 300 | | | |
 | 301 | | | |
 | 302 | | | |
-| 303 | | | |
+| 303 | **Range Sum Query Immutable** | [:octocat:][303-code] | |
 | 304 | | | |
 | 305 | | | |
 | 306 | | | |
@@ -1198,7 +1198,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [300-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [301-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [302-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[303-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[303-code]: https://github.com/ipudu/leetcode/blob/master/solutions/303_range-sum-query-immutable.py 
 [304-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [305-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [306-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
