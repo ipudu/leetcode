@@ -1586,7 +1586,7 @@
 [692-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [693-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [694-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[695-code]: https://github.com/ipudu/leetcode/blob/master/solutions/695_max-area-of-island.py 
+[695-code]: https://github.com/ipudu/leetcode/blob/master/solutions/695_max-area-of-island.py695_max-area-of-island.py 
 [696-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [697-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [698-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
