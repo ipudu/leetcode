@@ -473,7 +473,7 @@
 | 455 | | | |
 | 456 | | | |
 | 457 | | | |
-| 458 | | | |
+| 458 | **Poor Pigs** | [:octocat:][458-code] | |
 | 459 | **Repeated Substring Pattern** | [:octocat:][459-code] | |
 | 460 | | | |
 | 461 | **Hamming Distance** | [:octocat:][461-code] | |
@@ -1349,7 +1349,7 @@
 [455-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [456-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [457-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[458-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[458-code]: https://github.com/ipudu/leetcode/blob/master/solutions/458_poor-pigs.py 
 [459-code]: https://github.com/ipudu/leetcode/blob/master/solutions/459_repeated-substring-pattern.py 
 [460-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [461-code]: https://github.com/ipudu/leetcode/blob/master/solutions/461_hamming-distance.py 

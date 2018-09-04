@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Tue Sep  4 13:41:02 2018**
+**Last updated time: Tue Sep  4 17:40:49 2018**
 
 ## Table of Contents
 
@@ -477,7 +477,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 455 | | | |
 | 456 | | | |
 | 457 | | | |
-| 458 | | | |
+| 458 | **Poor Pigs** | [:octocat:][458-code] | |
 | 459 | **Repeated Substring Pattern** | [:octocat:][459-code] | |
 | 460 | | | |
 | 461 | **Hamming Distance** | [:octocat:][461-code] | |
@@ -1353,7 +1353,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [455-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [456-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [457-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[458-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[458-code]: https://github.com/ipudu/leetcode/blob/master/solutions/458_poor-pigs.py 
 [459-code]: https://github.com/ipudu/leetcode/blob/master/solutions/459_repeated-substring-pattern.py 
 [460-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [461-code]: https://github.com/ipudu/leetcode/blob/master/solutions/461_hamming-distance.py 
