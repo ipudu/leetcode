@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Thu Aug 30 15:19:50 2018**
+**Last updated time: Tue Sep  4 13:19:58 2018**
 
 ## Table of Contents
 
@@ -714,7 +714,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 692 | | | |
 | 693 | | | |
 | 694 | | | |
-| 695 | | | |
+| 695 | **Max Area Of Island** | [:octocat:][695-code] | |
 | 696 | | | |
 | 697 | | | |
 | 698 | | | |
@@ -1590,7 +1590,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [692-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [693-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [694-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[695-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[695-code]: https://github.com/ipudu/leetcode/blob/master/solutions/695_max-area-of-island.py 
 [696-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [697-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [698-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 

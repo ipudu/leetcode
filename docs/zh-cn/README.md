@@ -710,7 +710,7 @@
 | 692 | | | |
 | 693 | | | |
 | 694 | | | |
-| 695 | | | |
+| 695 | **Max Area Of Island** | [:octocat:][695-code] | |
 | 696 | | | |
 | 697 | | | |
 | 698 | | | |
@@ -1586,7 +1586,7 @@
 [692-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [693-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [694-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[695-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[695-code]: https://github.com/ipudu/leetcode/blob/master/solutions/695_max-area-of-island.py 
 [696-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [697-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [698-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
