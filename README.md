@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Tue Sep  4 17:40:49 2018**
+**Last updated time: Wed Sep  5 12:35:18 2018**
 
 ## Table of Contents
 
@@ -213,7 +213,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 191 | **Number of 1 Bits** | [:octocat:][191-code] | |
 | 192 | **Word Frequency** | [:octocat:][192-code] | |
 | 193 | **Valid Phone Numbers** | [:octocat:][193-code] | |
-| 194 | | | |
+| 194 | **Transpose File** | [:octocat:][194-code] | |
 | 195 | **Tenth Line** | [:octocat:][195-code] | |
 | 196 | | | |
 | 197 | | | |
@@ -1089,7 +1089,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [191-code]: https://github.com/ipudu/leetcode/blob/master/solutions/191_number-of-1-bits.py 
 [192-code]: https://github.com/ipudu/leetcode/blob/master/solutions/192_word-frequency.sh 
 [193-code]: https://github.com/ipudu/leetcode/blob/master/solutions/193_valid-phone-numbers.py 
-[194-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[194-code]: https://github.com/ipudu/leetcode/blob/master/solutions/194_transpose-file.sh 
 [195-code]: https://github.com/ipudu/leetcode/blob/master/solutions/195_tenth-line.sh 
 [196-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [197-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
