@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Wed Sep  5 12:35:18 2018**
+**Last updated time: Tue Sep 11 11:22:44 2018**
 
 ## Table of Contents
 
@@ -390,7 +390,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 368 | | | |
 | 369 | | | |
 | 370 | | | |
-| 371 | | | |
+| 371 | **Sum Of Two Integers** | [:octocat:][371-code] | |
 | 372 | **Super Pow** | [:octocat:][372-code] | |
 | 373 | | | |
 | 374 | | | |
@@ -1266,7 +1266,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [368-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [369-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [370-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[371-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[371-code]: https://github.com/ipudu/leetcode/blob/master/solutions/371_sum-of-two-integers.py 
 [372-code]: https://github.com/ipudu/leetcode/blob/master/solutions/372_super-pow.py 
 [373-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [374-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 

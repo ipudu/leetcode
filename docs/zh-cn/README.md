@@ -386,7 +386,7 @@
 | 368 | | | |
 | 369 | | | |
 | 370 | | | |
-| 371 | | | |
+| 371 | **Sum Of Two Integers** | [:octocat:][371-code] | |
 | 372 | **Super Pow** | [:octocat:][372-code] | |
 | 373 | | | |
 | 374 | | | |
@@ -1262,7 +1262,7 @@
 [368-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [369-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [370-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[371-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[371-code]: https://github.com/ipudu/leetcode/blob/master/solutions/371_sum-of-two-integers.py 
 [372-code]: https://github.com/ipudu/leetcode/blob/master/solutions/372_super-pow.py 
 [373-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [374-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
