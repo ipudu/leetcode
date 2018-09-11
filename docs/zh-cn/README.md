@@ -413,7 +413,7 @@
 | 395 | | | |
 | 396 | | | |
 | 397 | | | |
-| 398 | | | |
+| 398 | **Random Pick Index** | [:octocat:][398-code] | |
 | 399 | | | |
 | 400 | | | |
 | 401 | | | |
@@ -1289,7 +1289,7 @@
 [395-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [396-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [397-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[398-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[398-code]: https://github.com/ipudu/leetcode/blob/master/solutions/398_random-pick-index.py 
 [399-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [400-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [401-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
