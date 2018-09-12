@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Tue Sep 11 16:40:43 2018**
+**Last updated time: Wed Sep 12 09:16:49 2018**
 
 ## Table of Contents
 
@@ -712,7 +712,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 690 | | | |
 | 691 | | | |
 | 692 | | | |
-| 693 | | | |
+| 693 | **Binary Number With Alternating Bits** | [:octocat:][693-code] | |
 | 694 | | | |
 | 695 | **Max Area Of Island** | [:octocat:][695-code] | |
 | 696 | | | |
@@ -1588,7 +1588,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [690-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [691-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [692-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[693-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[693-code]: https://github.com/ipudu/leetcode/blob/master/solutions/693_binary-number-with-alternating-bits.py 
 [694-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [695-code]: https://github.com/ipudu/leetcode/blob/master/solutions/695_max-area-of-island.py695_max-area-of-island.py 
 [696-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
