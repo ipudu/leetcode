@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Wed Sep 12 09:16:49 2018**
+**Last updated time: Fri Oct  5 10:28:01 2018**
 
 ## Table of Contents
 
@@ -160,7 +160,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 138 | | | |
 | 139 | | | |
 | 140 | | | |
-| 141 | | | |
+| 141 | **Linked List Cycle** | [:octocat:][141-code] | |
 | 142 | | | |
 | 143 | | | |
 | 144 | | | |
@@ -1036,7 +1036,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [138-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [139-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [140-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[141-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[141-code]: https://github.com/ipudu/leetcode/blob/master/solutions/141_linked-list-cycle.py 
 [142-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [143-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [144-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 

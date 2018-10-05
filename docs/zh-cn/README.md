@@ -156,7 +156,7 @@
 | 138 | | | |
 | 139 | | | |
 | 140 | | | |
-| 141 | | | |
+| 141 | **Linked List Cycle** | [:octocat:][141-code] | |
 | 142 | | | |
 | 143 | | | |
 | 144 | | | |
@@ -1032,7 +1032,7 @@
 [138-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [139-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [140-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[141-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[141-code]: https://github.com/ipudu/leetcode/blob/master/solutions/141_linked-list-cycle.py 
 [142-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [143-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [144-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
