@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Fri Oct  5 10:28:01 2018**
+**Last updated time: Mon Oct  8 10:18:40 2018**
 
 ## Table of Contents
 
@@ -68,7 +68,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 046 | | | |
 | 047 | | | |
 | 048 | | | |
-| 049 | | | |
+| 049 | **Group Anagrams** | [:octocat:][049-code] | |
 | 050 | **Pow** | [:octocat:][050-code] | |
 | 051 | | | |
 | 052 | | | |
@@ -944,7 +944,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [046-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [047-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [048-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[049-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[049-code]: https://github.com/ipudu/leetcode/blob/master/solutions/049_group-anagrams.py 
 [050-code]: https://github.com/ipudu/leetcode/blob/master/solutions/050_pow.py
 [051-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [052-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 

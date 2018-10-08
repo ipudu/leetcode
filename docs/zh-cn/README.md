@@ -64,7 +64,7 @@
 | 046 | | | |
 | 047 | | | |
 | 048 | | | |
-| 049 | | | |
+| 049 | **Group Anagrams** | [:octocat:][049-code] | |
 | 050 | **Pow** | [:octocat:][050-code] | |
 | 051 | | | |
 | 052 | | | |
@@ -940,7 +940,7 @@
 [046-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [047-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [048-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[049-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[049-code]: https://github.com/ipudu/leetcode/blob/master/solutions/049_group-anagrams.py 
 [050-code]: https://github.com/ipudu/leetcode/blob/master/solutions/050_pow.py
 [051-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [052-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
