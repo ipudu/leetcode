@@ -395,7 +395,7 @@
 | 377 | | | |
 | 378 | **Kth Smallest Element In A Sorted Matrix** | [:octocat:][378-code] | |
 | 379 | | | |
-| 380 | | | |
+| 380 | **Insert Delete Getrandom** | [:octocat:][380-code] | |
 | 381 | | | |
 | 382 | | | |
 | 383 | **Ransom Note** | [:octocat:][383-code] | |
@@ -1271,7 +1271,7 @@
 [377-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [378-code]: https://github.com/ipudu/leetcode/blob/master/solutions/378_kth-smallest-element-in-a-sorted-matrix.py 
 [379-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[380-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[380-code]: https://github.com/ipudu/leetcode/blob/master/solutions/380_insert-delete-getRandom.py 
 [381-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [382-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [383-code]: https://github.com/ipudu/leetcode/blob/master/solutions/383_ransom-note.py 

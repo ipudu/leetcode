@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Mon Oct  8 11:06:09 2018**
+**Last updated time: Tue Oct  9 11:54:20 2018**
 
 ## Table of Contents
 
@@ -399,7 +399,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 377 | | | |
 | 378 | **Kth Smallest Element In A Sorted Matrix** | [:octocat:][378-code] | |
 | 379 | | | |
-| 380 | | | |
+| 380 | **Insert Delete Getrandom** | [:octocat:][380-code] | |
 | 381 | | | |
 | 382 | | | |
 | 383 | **Ransom Note** | [:octocat:][383-code] | |
@@ -1275,7 +1275,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [377-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [378-code]: https://github.com/ipudu/leetcode/blob/master/solutions/378_kth-smallest-element-in-a-sorted-matrix.py 
 [379-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[380-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[380-code]: https://github.com/ipudu/leetcode/blob/master/solutions/380_insert-delete-getRandom.py 
 [381-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [382-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [383-code]: https://github.com/ipudu/leetcode/blob/master/solutions/383_ransom-note.py 
