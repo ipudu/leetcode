@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Wed Oct 10 15:07:55 2018**
+**Last updated time: Thu Oct 11 10:19:10 2018**
 
 ## Table of Contents
 
@@ -27,7 +27,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 005 | | | |
 | 006 | | | |
 | 007 | **Reverse Integer** | [:octocat:][007-code] | |
-| 008 | | | |
+| 008 | **String To Integer** | [:octocat:][008-code] | |
 | 009 | **Palindrome Number** | [:octocat:][009-code] | |
 | 010 | | | |
 | 011 | | | |
@@ -903,7 +903,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [005-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [006-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [007-code]: https://github.com/ipudu/leetcode/blob/master/solutions/007_reverse-integer.py 
-[008-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[008-code]: https://github.com/ipudu/leetcode/blob/master/solutions/008_string-to-integer.py 
 [009-code]: https://github.com/ipudu/leetcode/blob/master/solutions/009_palindrome-number.py 
 [010-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [011-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 

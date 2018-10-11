@@ -23,7 +23,7 @@
 | 005 | | | |
 | 006 | | | |
 | 007 | **Reverse Integer** | [:octocat:][007-code] | |
-| 008 | | | |
+| 008 | **String To Integer** | [:octocat:][008-code] | |
 | 009 | **Palindrome Number** | [:octocat:][009-code] | |
 | 010 | | | |
 | 011 | | | |
@@ -899,7 +899,7 @@
 [005-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [006-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [007-code]: https://github.com/ipudu/leetcode/blob/master/solutions/007_reverse-integer.py 
-[008-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[008-code]: https://github.com/ipudu/leetcode/blob/master/solutions/008_string-to-integer.py 
 [009-code]: https://github.com/ipudu/leetcode/blob/master/solutions/009_palindrome-number.py 
 [010-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [011-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
