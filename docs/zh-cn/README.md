@@ -134,7 +134,7 @@
 | 116 | | | |
 | 117 | | | |
 | 118 | | | |
-| 119 | | | |
+| 119 | **Pascals Triangle Ii** | [:octocat:][119-code] | |
 | 120 | | | |
 | 121 | **Best Time To Buy And Sell Stock** | [:octocat:][121-code] | |
 | 122 | | | |
@@ -1010,7 +1010,7 @@
 [116-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [117-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [118-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[119-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[119-code]: https://github.com/ipudu/leetcode/blob/master/solutions/119_pascals-triangle-ii.py 
 [120-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [121-code]: https://github.com/ipudu/leetcode/blob/master/solutions/121_best-time-to-buy-and-sell-stock.py 
 [122-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
