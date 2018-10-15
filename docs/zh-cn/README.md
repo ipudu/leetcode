@@ -468,7 +468,7 @@
 | 450 | | | |
 | 451 | **Sort Characters By Frequency** | [:octocat:][451-code] | [:book:](https://leetcode.win/#/zh-cn/algorithms/451_sort-characters-by-frequency.md) |
 | 452 | | | |
-| 453 | | | |
+| 453 | **Minimum Moves To Equal Array Elements** | [:octocat:][453-code] | |
 | 454 | | | |
 | 455 | | | |
 | 456 | | | |
@@ -1344,7 +1344,7 @@
 [450-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [451-code]: https://github.com/ipudu/leetcode/blob/master/solutions/451_sort-characters-by-frequency.py 
 [452-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[453-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[453-code]: https://github.com/ipudu/leetcode/blob/master/solutions/453_minimum-moves-to-equal-array-elements.py 
 [454-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [455-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [456-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
