@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Mon Oct 15 14:06:20 2018**
+**Last updated time: Mon Oct 15 14:19:32 2018**
 
 ## Table of Contents
 
@@ -481,7 +481,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 459 | **Repeated Substring Pattern** | [:octocat:][459-code] | |
 | 460 | | | |
 | 461 | **Hamming Distance** | [:octocat:][461-code] | |
-| 462 | | | |
+| 462 | **Minimum Moves To Equal Array Element Ii** | [:octocat:][462-code] | |
 | 463 | **Island Perimeter** | [:octocat:][463-code] | |
 | 464 | | | |
 | 465 | | | |
@@ -1357,7 +1357,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [459-code]: https://github.com/ipudu/leetcode/blob/master/solutions/459_repeated-substring-pattern.py 
 [460-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [461-code]: https://github.com/ipudu/leetcode/blob/master/solutions/461_hamming-distance.py 
-[462-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[462-code]: https://github.com/ipudu/leetcode/blob/master/solutions/462_minimum-moves-to-equal-array-element-ii.py 
 [463-code]: https://github.com/ipudu/leetcode/blob/master/solutions/463_island-perimeter.py 
 [464-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [465-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
