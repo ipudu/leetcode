@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Mon Oct 15 14:19:32 2018**
+**Last updated time: Tue Oct 16 14:30:32 2018**
 
 ## Table of Contents
 
@@ -39,7 +39,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 017 | | | |
 | 018 | | | |
 | 019 | | | |
-| 020 | | | |
+| 020 | **Valid Parentheses** | [:octocat:][020-code] | |
 | 021 | | | |
 | 022 | | | |
 | 023 | | | |
@@ -915,7 +915,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [017-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [018-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [019-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[020-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[020-code]: https://github.com/ipudu/leetcode/blob/master/solutions/020_valid-parentheses.py 
 [021-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [022-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [023-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 

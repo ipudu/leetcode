@@ -35,7 +35,7 @@
 | 017 | | | |
 | 018 | | | |
 | 019 | | | |
-| 020 | | | |
+| 020 | **Valid Parentheses** | [:octocat:][020-code] | |
 | 021 | | | |
 | 022 | | | |
 | 023 | | | |
@@ -911,7 +911,7 @@
 [017-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [018-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [019-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[020-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[020-code]: https://github.com/ipudu/leetcode/blob/master/solutions/020_valid-parentheses.py 
 [021-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [022-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [023-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
