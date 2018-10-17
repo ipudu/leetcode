@@ -289,7 +289,7 @@
 | 271 | | | |
 | 272 | | | |
 | 273 | | | |
-| 274 | | | |
+| 274 | **H Index** | [:octocat:][274-code] | |
 | 275 | | | |
 | 276 | | | |
 | 277 | | | |
@@ -1165,7 +1165,7 @@
 [271-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [272-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [273-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[274-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[274-code]: https://github.com/ipudu/leetcode/blob/master/solutions/274_H-index.py 
 [275-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [276-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [277-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
