@@ -293,7 +293,7 @@
 | 275 | | | |
 | 276 | | | |
 | 277 | | | |
-| 278 | | | |
+| 278 | **First Bad Version** | [:octocat:][278-code] | |
 | 279 | | | |
 | 280 | | | |
 | 281 | | | |
@@ -1169,7 +1169,7 @@
 [275-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [276-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [277-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[278-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[278-code]: https://github.com/ipudu/leetcode/blob/master/solutions/278_first-bad-version.py 
 [279-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [280-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [281-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 

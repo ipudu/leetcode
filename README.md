@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Wed Oct 17 11:01:59 2018**
+**Last updated time: Thu Oct 18 10:55:48 2018**
 
 ## Table of Contents
 
@@ -297,7 +297,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 275 | | | |
 | 276 | | | |
 | 277 | | | |
-| 278 | | | |
+| 278 | **First Bad Version** | [:octocat:][278-code] | |
 | 279 | | | |
 | 280 | | | |
 | 281 | | | |
@@ -1173,7 +1173,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [275-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [276-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [277-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[278-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[278-code]: https://github.com/ipudu/leetcode/blob/master/solutions/278_first-bad-version.py 
 [279-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [280-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [281-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
