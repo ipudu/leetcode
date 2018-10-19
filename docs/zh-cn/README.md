@@ -152,7 +152,7 @@
 | 134 | | | |
 | 135 | | | |
 | 136 | **Single Number** | [:octocat:][136-code] | |
-| 137 | | | |
+| 137 | **Single Number Ii** | [:octocat:][137-code] | |
 | 138 | | | |
 | 139 | | | |
 | 140 | | | |
@@ -1028,7 +1028,7 @@
 [134-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [135-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [136-code]: https://github.com/ipudu/leetcode/blob/master/solutions/136_single-number.py 
-[137-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[137-code]: https://github.com/ipudu/leetcode/blob/master/solutions/137_single-number-ii.py 
 [138-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [139-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [140-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
