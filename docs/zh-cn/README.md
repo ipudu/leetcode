@@ -420,7 +420,7 @@
 | 402 | | | |
 | 403 | | | |
 | 404 | | | |
-| 405 | | | |
+| 405 | **Convert A Number To Hexadecimal** | [:octocat:][405-code] | |
 | 406 | | | |
 | 407 | | | |
 | 408 | | | |
@@ -1296,7 +1296,7 @@
 [402-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [403-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [404-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[405-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[405-code]: https://github.com/ipudu/leetcode/blob/master/solutions/405_convert-a-number-to-hexadecimal.py 
 [406-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [407-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [408-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
