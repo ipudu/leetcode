@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Fri Oct 19 15:29:31 2018**
+**Last updated time: Mon Oct 22 12:27:20 2018**
 
 ## Table of Contents
 
@@ -172,7 +172,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 150 | | | |
 | 151 | **Reverse Words In A String** | [:octocat:][151-code] | |
 | 152 | | | |
-| 153 | | | |
+| 153 | **Find Minimum In Rotated Sorted Array** | [:octocat:][153-code] | |
 | 154 | | | |
 | 155 | **Min Stack** | [:octocat:][155-code] | |
 | 156 | | | |
@@ -1048,7 +1048,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [150-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [151-code]: https://github.com/ipudu/leetcode/blob/master/solutions/151_reverse-words-in-a-string.py 
 [152-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[153-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[153-code]: https://github.com/ipudu/leetcode/blob/master/solutions/153_find-minimum-in-rotated-sorted-array.py 
 [154-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [155-code]: https://github.com/ipudu/leetcode/blob/master/solutions/155_min_stack.py 
 [156-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
