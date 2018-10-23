@@ -485,7 +485,7 @@
 | 467 | | | |
 | 468 | | | |
 | 469 | | | |
-| 470 | | | |
+| 470 | **Implement Rand10 Using Rand7** | [:octocat:][470-code] | |
 | 471 | | | |
 | 472 | | | |
 | 473 | | | |
@@ -1361,7 +1361,7 @@
 [467-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [468-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [469-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[470-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[470-code]: https://github.com/ipudu/leetcode/blob/master/solutions/470_implement-rand10-using-rand7.py 
 [471-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [472-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [473-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 

@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Mon Oct 22 12:27:20 2018**
+**Last updated time: Tue Oct 23 15:20:35 2018**
 
 ## Table of Contents
 
@@ -489,7 +489,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 467 | | | |
 | 468 | | | |
 | 469 | | | |
-| 470 | | | |
+| 470 | **Implement Rand10 Using Rand7** | [:octocat:][470-code] | |
 | 471 | | | |
 | 472 | | | |
 | 473 | | | |
@@ -1365,7 +1365,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [467-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [468-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [469-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[470-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[470-code]: https://github.com/ipudu/leetcode/blob/master/solutions/470_implement-rand10-using-rand7.py 
 [471-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [472-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [473-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
