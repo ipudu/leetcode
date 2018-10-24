@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Tue Oct 23 15:20:35 2018**
+**Last updated time: Wed Oct 24 10:29:59 2018**
 
 ## Table of Contents
 
@@ -33,7 +33,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 011 | | | |
 | 012 | | | |
 | 013 | | | |
-| 014 | | | |
+| 014 | **Longest Common Prefix** | [:octocat:][014-code] | |
 | 015 | | | |
 | 016 | | | |
 | 017 | | | |
@@ -909,7 +909,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [011-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [012-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [013-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[014-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[014-code]: https://github.com/ipudu/leetcode/blob/master/solutions/014_longest-common-prefix.py 
 [015-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [016-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [017-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 

@@ -29,7 +29,7 @@
 | 011 | | | |
 | 012 | | | |
 | 013 | | | |
-| 014 | | | |
+| 014 | **Longest Common Prefix** | [:octocat:][014-code] | |
 | 015 | | | |
 | 016 | | | |
 | 017 | | | |
@@ -905,7 +905,7 @@
 [011-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [012-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [013-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[014-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[014-code]: https://github.com/ipudu/leetcode/blob/master/solutions/014_longest-common-prefix.py 
 [015-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [016-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [017-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
