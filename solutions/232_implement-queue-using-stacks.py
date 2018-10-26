@@ -27,7 +27,8 @@ class MyQueue:
         """
         Initialize your data structure here.
         """
-        self.q = []
+        self.stack1 = []
+        self.stack2 = []
 
     def push(self, x):
         """
@@ -35,27 +36,35 @@ class MyQueue:
         :type x: int
         :rtype: void
         """
-        self.q.append(x)
+        self.stack1.append(x)
 
     def pop(self):
         """
         Removes the element from in front of queue and returns that element.
         :rtype: int
         """
-        front = self.q[0]
-        self.q = self.q[1:]
-        return front
+        while len(self.stack1) != 1:
+            self.stack2.append(self.stack1.pop())
+        a = self.stack1.pop()
+        while len(self.stack2) != 0:
+            self.stack1.append(self.stack2.pop())
+        return a
 
     def peek(self):
         """
         Get the front element.
         :rtype: int
         """
-        return self.q[0]
+        while len(self.stack1) != 1:
+            self.stack2.append(self.stack1.pop())
+        a = self.stack1[0]
+        while len(self.stack2) != 0:
+            self.stack1.append(self.stack2.pop())
+        return a
 
     def empty(self):
         """
         Returns whether the queue is empty.
         :rtype: bool
         """
-        return len(self.q) == 0
+        return len(self.stack1) == 0
