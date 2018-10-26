@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Wed Oct 24 10:29:59 2018**
+**Last updated time: Fri Oct 26 10:48:39 2018**
 
 ## Table of Contents
 
@@ -251,7 +251,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 229 | | | |
 | 230 | | | |
 | 231 | **Power of Two** | [:octocat:][231-code] | |
-| 232 | | | |
+| 232 | **Implement Queue Using Stacks** | [:octocat:][232-code] | |
 | 233 | | | |
 | 234 | | | |
 | 235 | | | |
@@ -1127,7 +1127,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [229-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [230-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [231-code]: https://github.com/ipudu/leetcode/blob/master/solutions/231_power-of-two.py 
-[232-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[232-code]: https://github.com/ipudu/leetcode/blob/master/solutions/232_implement-queue-using-stacks.py 
 [233-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [234-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [235-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
