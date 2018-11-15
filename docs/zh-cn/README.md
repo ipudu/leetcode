@@ -221,7 +221,7 @@
 | 203 | | | |
 | 204 | | | |
 | 205 | **Isomorphic Strings** | [:octocat:][205-code] | |
-| 206 | | | |
+| 206 | **Reverse Linked List** | [:octocat:][206-code] | |
 | 207 | | | |
 | 208 | **Implement Trie** | [:octocat:][208-code] | |
 | 209 | | | |
@@ -1097,7 +1097,7 @@
 [203-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [204-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [205-code]: https://github.com/ipudu/leetcode/blob/master/solutions/205_isomorphic-strings.py 
-[206-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[206-code]: https://github.com/ipudu/leetcode/blob/master/solutions/206_reverse-linked-list.py 
 [207-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [208-code]: https://github.com/ipudu/leetcode/blob/master/solutions/208_implement-trie.py 
 [209-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
