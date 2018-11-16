@@ -21,7 +21,7 @@
 | 003 | **Longest Substring Without Repeating Characters** | [:octocat:][003-code] | |
 | 004 | **Median of Two Sorted Arrays** | [:octocat:][004-code] | |
 | 005 | | | |
-| 006 | | | |
+| 006 | **Zigzag Conversion** | [:octocat:][006-code] | |
 | 007 | **Reverse Integer** | [:octocat:][007-code] | |
 | 008 | **String To Integer** | [:octocat:][008-code] | |
 | 009 | **Palindrome Number** | [:octocat:][009-code] | |
@@ -897,7 +897,7 @@
 [003-code]: https://github.com/ipudu/leetcode/blob/master/solutions/003_longest-substring-without-repeating-characters.py 
 [004-code]: https://github.com/ipudu/leetcode/blob/master/solutions/004_median-of-two-sorted-arrays.py 
 [005-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[006-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[006-code]: https://github.com/ipudu/leetcode/blob/master/solutions/006_zigzag-conversion.py 
 [007-code]: https://github.com/ipudu/leetcode/blob/master/solutions/007_reverse-integer.py 
 [008-code]: https://github.com/ipudu/leetcode/blob/master/solutions/008_string-to-integer.py 
 [009-code]: https://github.com/ipudu/leetcode/blob/master/solutions/009_palindrome-number.py 
