@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Thu Nov 15 15:23:49 2018**
+**Last updated time: Fri Nov 16 11:48:42 2018**
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | :---: | :---: | :---: | :---: |
 | 001 | **Two Sum** | [:octocat:][001-code] | |
 | 002 | **Add Two Numbers** | [:octocat:][002-code] | |
-| 003 | | | |
+| 003 | **Longest Substring Without Repeating Characters** | [:octocat:][003-code] | |
 | 004 | **Median of Two Sorted Arrays** | [:octocat:][004-code] | |
 | 005 | | | |
 | 006 | | | |
@@ -898,7 +898,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 
 [001-code]: https://github.com/ipudu/leetcode/blob/master/solutions/001_two-sum.py
 [002-code]: https://github.com/ipudu/leetcode/blob/master/solutions/002_add-two-numbers.py 
-[003-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[003-code]: https://github.com/ipudu/leetcode/blob/master/solutions/003_longest-substring-without-repeating-characters.py 
 [004-code]: https://github.com/ipudu/leetcode/blob/master/solutions/004_median-of-two-sorted-arrays.py 
 [005-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [006-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
