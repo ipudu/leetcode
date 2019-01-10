@@ -30,7 +30,7 @@
 | 012 | **Integer To Roman** | [:octocat:][012-code] | |
 | 013 | **Roman To Integer** | [:octocat:][013-code] | |
 | 014 | **Longest Common Prefix** | [:octocat:][014-code] | |
-| 015 | | | |
+| 015 | **3sum** | [:octocat:][015-code] | |
 | 016 | | | |
 | 017 | | | |
 | 018 | | | |
@@ -906,7 +906,7 @@
 [012-code]: https://github.com/ipudu/leetcode/blob/master/solutions/012_integer-to-roman.py 
 [013-code]: https://github.com/ipudu/leetcode/blob/master/solutions/013_roman-to-integer.py 
 [014-code]: https://github.com/ipudu/leetcode/blob/master/solutions/014_longest-common-prefix.py 
-[015-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[015-code]: https://github.com/ipudu/leetcode/blob/master/solutions/015_3sum.py 
 [016-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [017-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [018-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
