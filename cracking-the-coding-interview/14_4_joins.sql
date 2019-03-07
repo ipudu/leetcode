@@ -1,0 +1,9 @@
+/*
+JOIN is used to combine the results of two tables.
+
+INNER JOIN
+OUTER JOIN
+    LEFT OUTER JOIN
+    RIGHT OUTER JOIN
+    FULL OUTER JOIN
+*/
