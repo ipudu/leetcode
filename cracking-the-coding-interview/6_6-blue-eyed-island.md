@@ -1,0 +1,1 @@
+n days.(n is the number of blue-eyed people)
