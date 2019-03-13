@@ -611,7 +611,7 @@
 | 593 | | | |
 | 594 | **Longest Harmonious Subsequence** | [:octocat:][594-code] | |
 | 595 | **Big Countries** | [:octocat:][595-code] | |
-| 596 | | | |
+| 596 | **Classes More Than 5 Students** | [:octocat:][596-code] | |
 | 597 | | | |
 | 598 | | | |
 | 599 | | | |
@@ -1487,7 +1487,7 @@
 [593-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [594-code]: https://github.com/ipudu/leetcode/blob/master/solutions/594_longest-harmonious-subsequence.py 
 [595-code]: https://github.com/ipudu/leetcode/blob/master/solutions/595_big-countries.sql 
-[596-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[596-code]: https://github.com/ipudu/leetcode/blob/master/solutions/596_classes-more-than-5-students.sql 
 [597-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [598-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [599-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
