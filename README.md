@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Wed Mar 13 17:32:17 2019**
+**Last updated time: Wed Mar 13 17:42:07 2019**
 
 ## Table of Contents
 
@@ -215,7 +215,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 193 | **Valid Phone Numbers** | [:octocat:][193-code] | |
 | 194 | **Transpose File** | [:octocat:][194-code] | |
 | 195 | **Tenth Line** | [:octocat:][195-code] | |
-| 196 | | | |
+| 196 | **Delete Duplicate Emails** | [:octocat:][196-code] | |
 | 197 | **Rising Temperature** | [:octocat:][197-code] | |
 | 198 | | | |
 | 199 | | | |
@@ -1091,7 +1091,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [193-code]: https://github.com/ipudu/leetcode/blob/master/solutions/193_valid-phone-numbers.py 
 [194-code]: https://github.com/ipudu/leetcode/blob/master/solutions/194_transpose-file.sh 
 [195-code]: https://github.com/ipudu/leetcode/blob/master/solutions/195_tenth-line.sh 
-[196-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[196-code]: https://github.com/ipudu/leetcode/blob/master/solutions/196_delete-duplicate-emails.sql 
 [197-code]: https://github.com/ipudu/leetcode/blob/master/solutions/197_rising-temperature.sql 
 [198-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [199-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
