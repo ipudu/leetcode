@@ -637,7 +637,7 @@
 | 619 | | | |
 | 620 | **Not Boring Movies** | [:octocat:][620-code] | |
 | 621 | | | |
-| 622 | | | |
+| 622 | **Design Circular Queue** | [:octocat:][622-code] | |
 | 623 | | | |
 | 624 | | | |
 | 625 | | | |
@@ -1513,7 +1513,7 @@
 [619-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [620-code]: https://github.com/ipudu/leetcode/blob/master/solutions/620_not-boring-movies.sql 
 [621-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[622-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[622-code]: https://github.com/ipudu/leetcode/blob/master/solutions/622_design-circular-queue.py 
 [623-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [624-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [625-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 

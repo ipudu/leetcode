@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Wed Mar 13 17:42:07 2019**
+**Last updated time: Thu Mar 14 12:03:35 2019**
 
 ## Table of Contents
 
@@ -641,7 +641,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 619 | | | |
 | 620 | **Not Boring Movies** | [:octocat:][620-code] | |
 | 621 | | | |
-| 622 | | | |
+| 622 | **Design Circular Queue** | [:octocat:][622-code] | |
 | 623 | | | |
 | 624 | | | |
 | 625 | | | |
@@ -1517,7 +1517,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [619-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [620-code]: https://github.com/ipudu/leetcode/blob/master/solutions/620_not-boring-movies.sql 
 [621-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[622-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[622-code]: https://github.com/ipudu/leetcode/blob/master/solutions/622_design-circular-queue.py 
 [623-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [624-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [625-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
