@@ -14,7 +14,7 @@ This repository provides python code solutions for leetcode [problems](https://l
   </a>
 </p>
 
-**Last updated time: Thu Mar 14 12:03:35 2019**
+**Last updated time: Fri Mar 15 14:53:34 2019**
 
 ## Table of Contents
 
@@ -803,7 +803,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 | 781 | | | |
 | 782 | | | |
 | 783 | | | |
-| 784 | | | |
+| 784 | **Letter Case Permutation** | [:octocat:][784-code] | |
 | 785 | | | |
 | 786 | | | |
 | 787 | | | |
@@ -1679,7 +1679,7 @@ This repository provides python code solutions for leetcode [problems](https://l
 [781-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [782-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [783-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
-[784-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
+[784-code]: https://github.com/ipudu/leetcode/blob/master/solutions/784_letter-case-permutation.py 
 [785-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [786-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
 [787-code]: https://github.com/ipudu/leetcode/blob/master/solutions/ 
