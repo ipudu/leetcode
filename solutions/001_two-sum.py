@@ -10,14 +10,11 @@ Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 """
 
-class Solution(object):
-    def twoSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
-        for i in range(len(nums)-1):
-            for j in range(i+1, len(nums)):
-                if nums[i] + nums[j] == target:
-                    return [i, j]
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        vis = {}
+        for i, num in enumerate(nums):
+            diff = target - nums[i]
+            if diff in vis:
+                return [vis[diff], i]
+            vis[num] = i
