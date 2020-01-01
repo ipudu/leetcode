@@ -18,6 +18,14 @@ def return_k(l, k):
         counter -= 1
     return l.val
 
+def return_k_2(l,k):
+    """recursive"""
+    if not l:
+        return 0
+    index = return_k_2(l.next, k) + 1
+    if index == k:
+        print(l.val)
+    return index
 
 if __name__ == '__main__':
     l = ListNode(1)
@@ -34,3 +42,4 @@ if __name__ == '__main__':
     l4.next = l5
 
     print(return_k(l,4))
+    return_k_2(l,4)
