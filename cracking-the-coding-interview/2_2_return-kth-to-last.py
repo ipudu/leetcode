@@ -18,7 +18,7 @@ def return_k(l, k):
         counter -= 1
     return l.val
 
-def return_k_2(l,k):
+def return_k_2(l, k):
     """recursive"""
     if not l:
         return 0
@@ -26,6 +26,21 @@ def return_k_2(l,k):
     if index == k:
         print(l.val)
     return index
+
+def return_k_3(l, k):
+    """iterative"""
+    p1 = l
+    p2 = l
+    for i in range(k):
+        if not p1:
+            break
+        p1 = p1.next
+    
+    while p1:
+        p1 = p1.next
+        p2 = p2.next
+    
+    return p2.val
 
 if __name__ == '__main__':
     l = ListNode(1)
@@ -43,3 +58,4 @@ if __name__ == '__main__':
 
     print(return_k(l,4))
     return_k_2(l,4)
+    print(return_k_3(l,2))
